@@ -11,7 +11,7 @@ def tree_carbon():
     if units == 'inches':
         circumference = float(circumference)
         circumference = circumference * 2.54
-    elif units == 'cm':
+    else units == 'cm':
         circumference = float(circumference)
         
     diameter = circumference / math.pi
