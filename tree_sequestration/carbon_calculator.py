@@ -19,8 +19,11 @@ def tree_carbon():
     #Calculate the biomass of the tree, above and below ground
     above_ground_biomass = 0.0998 * (diameter**2.5445)
 
-    #Calculate above and below ground biomass
-    total_biomass = above_ground_biomass * 1.24
+    #Calculate above and below ground (roots) biomass
+    #To keep things generalised, we're using the IPCC recommendation that below-ground biomass account for an additional
+    #average of 26% of the above-ground biomass 
+    #Source: IPCC Good Practice Guidance for Land Use, Land-Use Change and Forestry, pg. 4.103, link: https://www.ipcc-nggip.iges.or.jp/public/gpglulucf/gpglulucf_files/GPG_LULUCF_FULL.pdf
+    total_biomass = above_ground_biomass * 1.26
 
     #Calculate growth rate per annum
     growth_rate = 0.208 * (total_biomass**0.763)
