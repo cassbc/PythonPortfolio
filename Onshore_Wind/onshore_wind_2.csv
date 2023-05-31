@@ -66,11 +66,16 @@ Cumbria",Cumbria,North West,England,,360800,494000,South Lakeland District Counc
 07035W4,2606,20/12/2009,Renewable Development Company Ltd,Whinash Wind Farm,Wind Onshore,,,67.50,,,,,,2.50,27,,,Planning Permission Refused,Application Refused,,,"Bretherdale, Tebay, Cumbria",Cumbria,North West,England,,357100,503800,DECC (S36),,,,,,,29/09/2003,,02/03/2006,,,,,,,,,,,,
 07037W5,2609,08/10/2013,S B ENERGY LTD,Reaps Moss Wind Farm,Wind Onshore,,,9.00,,,,,,1.00,9,,,Revised,Revised,4655,,"Off A681, Bacup, ",Lancashire,North West,England,,389000,422800,Rossendale Borough Council,,,,,,,01/06/1999,,21/02/2000,,,,,,,,,,,,
 07046W3,2613,30/10/2011,Great Orton Wind Farms (II) Ltd,Great Orton Wind Farm (Extension),Wind Onshore,,,2.30,,,,,,0.40,6,,,Operational,Operational,,,"Great Orton Airfield, near Wiggonby, Carlisle, Cumbria",Cumbria,North West,England,,331300,553400,Allerdale Borough Council,,,,,,,26/02/1998,,,,,,,23/06/1998,,,,,,01/02/2000,
-07056W3,2617,01/08/2016,The Wind Company,Harlock Hill Wind Farm,Wind Onshore,,,2.50,,,,,,0.50,5,,,Operational,Operational,,,"Harlock Hill Wind Farm, Pennington, Near Ulverston, Cumbria",Cumbria,North West,England,LA12 0,325300,479400,South Lakeland District Council,,,,,,,03/02/1995,,,,,,,03/05/1996,,,,,,01/01/1997,
+07056W3,2617,01/08/2016,The Wind Company,Harlock Hill Wind Farm,Wind Onshore,,,2.50,,,,,,0.50,5,,,Operational,Operational,,,"Harlock Hill Wind Farm
+, Pennington
+, Near Ulverston
+, Cumbria",Cumbria,North West,England,LA12 0,325300,479400,South Lakeland District Council,,,,,,,03/02/1995,,,,,,,03/05/1996,,,,,,01/01/1997,
 07060W4,2618,06/05/2009,Wharrels Hill Windfarm Ltd/ National Windpower,Wharrels Hill Wind Farm,Wind Onshore,,,10.40,,,,,,1.30,8,,,Operational,Operational,,,"Wharrels Hill
 Bothel
 Cumbria",Cumbria,North West,England,,318000,537200,Allerdale Borough Council,2/2001/0008,APP/G0908/A/01/1075972,,,,,23/12/2000,,19/06/2002,,,,,,,,,,01/04/2007,07/08/2007,
-07071W4,2619,02/09/2004,Wind Turbine Developments Ltd,Warcock Hill Project,Wind Onshore,,,1.00,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Coal Clough Wind Farm, Cliviger, Burnley",Lancashire,North West,England,,389500,428500,Burnley Borough Council,,,,,,,24/01/2000,,25/05/2000,,,,,,,,,,,,
+07071W4,2619,02/09/2004,Wind Turbine Developments Ltd,Warcock Hill Project,Wind Onshore,,,1.00,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Coal Clough Wind Farm
+, Cliviger
+, Burnley",Lancashire,North West,England,,389500,428500,Burnley Borough Council,,,,,,,24/01/2000,,25/05/2000,,,,,,,,,,,,
 07086W3,2620,30/10/2011,RWE npower,Gunson Height Wind Farm,Wind Onshore,,,7.80,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Gunson Height
 Kirkby Moor
 Kirkby Ireleth
@@ -364,7 +369,8 @@ Winscales",Cumbria,North West,England,,313265,542990,Allerdale Borough Council,,
 EN00214,2962,08/10/2013,Npower Renewables,Nunn Wood,Wind Onshore,,,24.00,,,,,,,12,,,Planning Application Withdrawn,Application Withdrawn,,,"Wind Farm Between Harrold Road and London Road
 Harrold Road, Bozea, Wellingborough",Buckinghamshire,South East,England,,490500,255500,Milton Keynes Council,WP/2006/0474/FM,,,,,,,08/10/2013,,,,,,,,,,,,,
 EN00218,2963,06/11/2008,Ecotricity,City of Manchester Stadium,Wind Onshore,,,2.00,,,,,,2.00,1,,,Abandoned,Abandoned,,,"City of Manchester Stadium, Manchester",Greater Manchester,North West,England,,386670,398897,Manchester City Council,080109/FO/2006/N2,,,,,,14/09/2005,,,,,,,29/09/2006,,,,,,,
-EN00219,2964,26/03/2009,Asda,Asda Grangemouth Depot,Wind Onshore,,,4.00,,,,,,2.00,2,,,Planning Permission Refused,Application Refused,,,"West Mains and Bankside, Falkirk",Falkirk,Scotland,Scotland,,290430,681125,Falkirk Council,P/07/0084/FUL,,,,,,07/02/2007,,20/12/2007,,,,,,,,,,,,
+EN00219,2964,26/03/2009,Asda,Asda Grangemouth Depot,Wind Onshore,,,4.00,,,,,,2.00,2,,,Planning Permission Refused,Application Refused,,,"West Mains and Bankside, Falkirk
+",Falkirk,Scotland,Scotland,,290430,681125,Falkirk Council,P/07/0084/FUL,,,,,,07/02/2007,,20/12/2007,,,,,,,,,,,,
 EN00224,2965,05/10/2009,Green Cat Renewables,North Red Bog,Wind Onshore,,,1.60,,,,,,0.80,2,,,Operational,Operational,,,"North Redbog
 Strichen
 Aberdeenshire
@@ -387,8 +393,16 @@ Wolsingham Road
 Stanley
 Crook
 Durham",County Durham,North East,England,,415500,539500,Durham County Council,3/2006/0087,,,,,,02/02/2006,,,,,,,08/12/2006,,,,,,16/02/2009,
-EN00316,2984,07/12/2010,Cornwall Light and Power,Beech Tree Farm,Wind Onshore,,,4.00,,,,,,,3,,,Appeal Refused,Application Refused,,,"Beech Tree Farm, Goveton, Kingsbridge, TQ7 2DT (Land between Goveton and A381)",Devon,South West,England,,275500,46500,South Hams District Council,08_19/2525/07/F,,,,,,30/11/2007,,14/02/2008,,,08/04/2009,,,,,,,,,
-EN00318,2985,05/04/2011,Princes soft drinks distribution,Princes Soft Drinks Distribution,Wind Onshore,,,2.00,,,,,,2.00,1,,,Planning Permission Refused,Application Refused,,,"Princes Limited, Weaverthorpe Road, Bradford, West Yorkshire, BD4 6SX",West Yorkshire,Yorkshire and Humber,England,,419195,429866,Bracknell Forest Borough Council,08/02973/FUL,09/00172/APPFUL,,,,,01/05/2008,,18/05/2009,,,,,,,,,,,,
+EN00316,2984,07/12/2010,Cornwall Light and Power,Beech Tree Farm,Wind Onshore,,,4.00,,,,,,,3,,,Appeal Refused,Application Refused,,,"Beech Tree Farm
+, Goveton
+, Kingsbridge
+, TQ7 2DT
+ (Land between Goveton and A381)",Devon,South West,England,,275500,46500,South Hams District Council,08_19/2525/07/F,,,,,,30/11/2007,,14/02/2008,,,08/04/2009,,,,,,,,,
+EN00318,2985,05/04/2011,Princes soft drinks distribution,Princes Soft Drinks Distribution,Wind Onshore,,,2.00,,,,,,2.00,1,,,Planning Permission Refused,Application Refused,,,"Princes Limited
+, Weaverthorpe Road
+, Bradford
+, West Yorkshire
+, BD4 6SX",West Yorkshire,Yorkshire and Humber,England,,419195,429866,Bracknell Forest Borough Council,08/02973/FUL,09/00172/APPFUL,,,,,01/05/2008,,18/05/2009,,,,,,,,,,,,
 EN00319,2986,04/12/2017,Gravis Capital Management,Winscales Moor,Wind Onshore,,,6.00,,,,,,0.85,7,,,Operational,Operational,,,Winscales Moor,Cumbria,North West,England,,303500,528500,Allerdale Borough Council,2/2006/1321,,,,,,01/10/2006,,,,,,,20/06/2007,,,,,01/12/2008,01/05/2009,
 EN00330,2988,13/09/2011,SLP Energy,Wind Farm Africa Alive,Wind Onshore,,,4.10,,,,,,2.05,2,,,Operational,Operational,,,"Whites Lane
 Kessingland
@@ -410,12 +424,17 @@ EN00354,2999,21/05/2010,Green Cat Renewables,St John's Well,Wind Onshore,,,2.40,
 Fyvie
 Formartine
 Aberdeenshire",Grampian,Scotland,Scotland,,380570,837410,Aberdeenshire Council,APP/2006/3851,,,,,,02/10/2006,,,,,,,20/03/2007,,,,,,15/07/2009,
-EN00357,3001,11/12/2008,Laughton Wind Farm,Laughton Wind Farm,Wind Onshore,,,28.00,,,,,,,8,,,Appeal Refused,Application Refused,,3188,"Mount Pleasant Farm, Scotton Rd, (1km east of Laughton and 8km northeast of the centre of Gainsborough), Loughton",Lincolnshire,East Midlands,England,,487000,397000,West Lindsey District Council,M06/P/0280,APP/N2535/A/07/2048474/NWF,,,,,21/03/2006,,29/11/2007,,,17/04/2008,,,,,,,,,
+EN00357,3001,11/12/2008,Laughton Wind Farm,Laughton Wind Farm,Wind Onshore,,,28.00,,,,,,,8,,,Appeal Refused,Application Refused,,3188,"Mount Pleasant Farm
+, Scotton Rd
+, (1km east of Laughton and 8km northeast of the centre of Gainsborough)
+, Loughton",Lincolnshire,East Midlands,England,,487000,397000,West Lindsey District Council,M06/P/0280,APP/N2535/A/07/2048474/NWF,,,,,21/03/2006,,29/11/2007,,,17/04/2008,,,,,,,,,
 EN00359,3002,15/03/2012,Npower Renewables,Hellrigg Wind farm,Wind Onshore,,,9.20,,,,,,2.50,4,,,Operational,Operational,,3543,"Park Head Farm
 Silloth
 Carlisle",Cumbria,North West,England,,313585,551775,Allerdale Borough Council,2/2007/0076,,,,,,29/01/2007,,11/12/2007,,,,,,,,,,01/05/2011,14/09/2011,
 EN00367,3004,09/01/2015,REG Windpower (previously Cornwall Light and Power),Goonhilly Downs - Wind,Wind Onshore,,,5.60,,,,,,0.40,14,,,Decommissioned,Decommissioned,,,"Goonhillydowns, Helston, Cornwall",Cornwall,South West,England,TR12 6LQ,170750,20985,Cornwall Council,,,,,,,,,,,,,,,,,,,,01/01/1993,
-EN00372,3005,09/01/2015,Scottish Power Renewables,Carland Cross,Wind Onshore,,,6.00,,,,,,0.40,15,,,Decommissioned,Decommissioned,,,"Carland Cross, Mitchell, Truro",Cornwall,South West,England,,184500,54500,Cornwall Council,,,,,,,30/05/1991,,,,,,,29/04/1992,,,,,,27/08/1992,
+EN00372,3005,09/01/2015,Scottish Power Renewables,Carland Cross,Wind Onshore,,,6.00,,,,,,0.40,15,,,Decommissioned,Decommissioned,,,"Carland Cross
+, Mitchell
+, Truro",Cornwall,South West,England,,184500,54500,Cornwall Council,,,,,,,30/05/1991,,,,,,,29/04/1992,,,,,,27/08/1992,
 EN00380,3007,06/04/2007,,Ballygroggan Farm,Wind Onshore,,,9.00,,,,,,,30,,,Planning Permission Refused,Application Refused,,,"Ballygroggan Farm 
 Machrihanish
 Campbeltown
@@ -438,12 +457,17 @@ West Norfolk",Norfolk,Eastern,England,,554120,307670,DECC (S36),,,,,,,,30/07/200
 EN00402,3019,09/02/2011,Good Energy Generation,Delabole (Repowering),Wind Onshore,,,9.20,,,,,,2.30,4,,,Operational,Operational,,,"Delebole
 North Cornwall",Cornwall,South West,England,,208800,85500,Cornwall Council,,,,,,,06/04/2008,,,,,,,12/12/2009,,,,,01/07/2010,01/02/2011,
 EN00406,3021,04/07/2012,REG Windpower (previously Cornwall Light and Power),Whittlesey,Wind Onshore,,,9.00,,,,,,3.00,3,,,Operational,Operational,,,"McCain's Food, Funtham's Lane, Whittlesey, Peterborough",Cambridgeshire,Eastern,England,PE7 2PG,524027,297139,Fenland District Council,F/YR07/0413/F,,,,,,13/04/2007,,,,,,,09/07/2007,,,,,01/11/2007,03/09/2008,
-EN00408,3022,29/04/2009,Energy4All,Membury,Wind Onshore,,,2.00,,,,,,,1,,,Planning Permission Refused,Application Refused,,,"Baydon Meadow, Next to M4, Membury",Berkshire,South East,England,,430455,175810,West Berkshire Council,07/01018/FUL,,,,,,11/05/2007,,11/12/2007,,,,,,,,,,,,
+EN00408,3022,29/04/2009,Energy4All,Membury,Wind Onshore,,,2.00,,,,,,,1,,,Planning Permission Refused,Application Refused,,,"Baydon Meadow
+, Next to M4
+, Membury",Berkshire,South East,England,,430455,175810,West Berkshire Council,07/01018/FUL,,,,,,11/05/2007,,11/12/2007,,,,,,,,,,,,
 EN00415,3023,26/03/2009,,Baydon Meadow,Wind Onshore,,,1.30,,,,,,1.00,1,,,Planning Permission Refused,Application Refused,,3140,Baydon Road Lambourne Hungerford ,Berkshire,South East,England,,432302,178781,West Berkshire Council,,,,,,,01/06/2007,,11/12/2007,,,,,,,,,,,,
-EN00417,3024,25/11/2008,Infinergy,Thackson's Well Wind Farm,Wind Onshore,,,23.00,,,,,,2.30,10,,,Planning Permission Refused,Application Refused,,,"Thackson's Well, Normanton, South Kesteven",Lincolnshire,East Midlands,England,NG23 5EX,483366,342151,South Kesteven District Council,S07/1661,S07/1661/01,,,,,30/11/2007,,28/03/2008,,,,,,,,,,,,
+EN00417,3024,25/11/2008,Infinergy,Thackson's Well Wind Farm,Wind Onshore,,,23.00,,,,,,2.30,10,,,Planning Permission Refused,Application Refused,,,"Thackson's Well
+, Normanton
+, South Kesteven",Lincolnshire,East Midlands,England,NG23 5EX,483366,342151,South Kesteven District Council,S07/1661,S07/1661/01,,,,,30/11/2007,,28/03/2008,,,,,,,,,,,,
 EN00418,3025,24/09/2008,SLP Energy,Pulham Airfield,Wind Onshore,,,14.00,,,,,,,7,,,Planning Application Withdrawn,Application Withdrawn,,,"Pulham Airfield
 Dorset",Norfolk,Eastern,England,,619320,283865,South Norfolk Council,,,,,,,,24/09/2008,,,,,,,,,,,,,
-EN00423,3027,09/12/2015,Community Power Ltd,Bodmin Moor,Wind Onshore,,,50.00,,,,,,2.50,20,,,Appeal Withdrawn,Appeal Withdrawn,,,"Davidstow, Cornwall",Cornwall,South West,England,,214075,84165,Cornwall Council,E1/2008/01432,11/00031/REF,,,,,18/07/2008,,26/07/2010,11/03/2011,27/09/2011,,,,,,,,,,
+EN00423,3027,09/12/2015,Community Power Ltd,Bodmin Moor,Wind Onshore,,,50.00,,,,,,2.50,20,,,Appeal Withdrawn,Appeal Withdrawn,,,"Davidstow
+, Cornwall",Cornwall,South West,England,,214075,84165,Cornwall Council,E1/2008/01432,11/00031/REF,,,,,18/07/2008,,26/07/2010,11/03/2011,27/09/2011,,,,,,,,,,
 EN00424,3028,28/07/2009,,Advanced Manufacturing Research Centre,Wind Onshore,,,2.60,,,,,,1.30,2,,,Operational,Operational,,,"Advanced Manufacturing Park
 Wallis Way
 Catcliffe
@@ -460,7 +484,10 @@ EN00433,3032,12/09/2011,West Coast Energy,Berrier Hill,Wind Onshore,,,22.50,,,,,
 EN00434,3033,27/03/2009,Ecotricity,North Dover Wind Park,Wind Onshore,,,10.00,,,,,,,5,,,Planning Permission Refused,Application Refused,,,"Archers Court Road,
 East Langdon
 Dover",Kent,South East,England,,632255,145810,Dover District Council,DOV/07/01148,,,,,,15/09/2007,,16/03/2009,,,,,,,,,,,,
-EN00438,3034,08/10/2013,Solutia / Vestas,Solutia UK Ltd,Wind Onshore,,,5.00,,,,,,2.50,2,,,Operational,Operational,,,"Traston Road, Newport, South Wales",Gwent,Wales,Wales,NP14 4XF,333375,185740,Newport City Council,08/1412,,,,,,05/11/2008,,,,,,,19/01/2009,,,,,01/09/2009,17/12/2009,
+EN00438,3034,08/10/2013,Solutia / Vestas,Solutia UK Ltd,Wind Onshore,,,5.00,,,,,,2.50,2,,,Operational,Operational,,,"Traston Road
+, Newport
+, South Wales
+",Gwent,Wales,Wales,NP14 4XF,333375,185740,Newport City Council,08/1412,,,,,,05/11/2008,,,,,,,19/01/2009,,,,,01/09/2009,17/12/2009,
 EN00439,3035,26/03/2009,SLP Energy,Hemsby Wind Farm,Wind Onshore,,,10.00,,,,,,10.00,4,,,Revised,Revised,2764,,Hemsby,Norfolk,Eastern,England,,648680,316325,Great Yarmouth Borough Council,,,,,,,20/08/2007,01/12/2007,,,,,,,,,,,,,
 EN00441,3036,06/06/2011,North Harris Community Trust,North Harris Community Trust,Wind Onshore,,,2.50,,,,,,0.85,3,,,Abandoned,Abandoned,,,"Ardhasaig
 Isle of Harris
@@ -493,7 +520,10 @@ Road, Brackmills Industrial Estate,
 Northampton, Northamptonshire, NN4 7BW",Northamptonshire,East Midlands,England,,478050,257610,Northamptonshire County Council,07/0356/FULWNN,,,,,,07/12/2007,,04/11/2008,,,,,,,,,,,,
 EN00572,3064,30/07/2010,Evelop UK Limited (previously known as Breeze Renewable Energy),Sheephouse Heights Windfarm,Wind Onshore,,,15.00,,,,,,3.00,5,,,Planning Permission Refused,Application Refused,,,"2km North West of Stocksbridge and 10km south west of Barnsley, S36 1JJ",South Yorkshire,Yorkshire and Humber,England,,425305,399056,Barnsley Metropolitan Borough Council,2008/0838,,,,,,30/05/2008,,16/12/2009,,,,,,,,,,,,
 EN00590,3066,22/06/2011,Bolsterstone Plc,Brixworth Windfarm,Wind Onshore,,,13.00,,,,,,2.15,6,,,Planning Application Withdrawn,Application Withdrawn,,,"Land adjacent to Harborough Road, between Brixworth and Hanging Houghton",Northamptonshire,East Midlands,England,,474345,273050,Daventry District Council,DA/2008/1252,,,,,,29/08/2008,11/03/2009,,,,,,,,,,,,,
-EN00592,3067,13/09/2011,Claymoss Properties Limited,Maer Hills Wind Farm,Wind Onshore,,,8.00,,,,,,2.00,4,,,Abandoned,Abandoned,,,"Maer Hills, Nantwich Road, Blackbrook, Newcastle",Staffordshire,West Midlands,England,,377538,339757,Newcastle Under Lyme Borough Council,08/00550/FUL,,,,,,12/06/2008,,,,,,,16/02/2009,,,,,,,
+EN00592,3067,13/09/2011,Claymoss Properties Limited,Maer Hills Wind Farm,Wind Onshore,,,8.00,,,,,,2.00,4,,,Abandoned,Abandoned,,,"Maer Hills
+, Nantwich Road
+, Blackbrook
+, Newcastle",Staffordshire,West Midlands,England,,377538,339757,Newcastle Under Lyme Borough Council,08/00550/FUL,,,,,,12/06/2008,,,,,,,16/02/2009,,,,,,,
 EN00598,3068,09/02/2011,,MSD Cramlington,Wind Onshore,,,4.00,,,,,,2.00,2,,,Operational,Operational,,,"Shotton Lane, Cramlington, Northumberland, NE23 3JU",Northumberland,North East,England,,424206,578852,Northumberland County Council,06-00551-FUL,APP/N2915/A07/2051193/NWF,,,,,12/12/2006,,31/07/2007,,,,24/07/2008,24/07/2008,,,,,01/09/2010,20/01/2011,
 EN00610,3069,20/05/2009,Energiekontor UK,Brightenber Hill,Wind Onshore,,,12.50,,,,,,2.50,5,,,Revised,Revised,4229,,"Land adjacent to Brightenber Hill near Stainton Hall, Gargrave, Skopton",North Yorkshire,Yorkshire and Humber,England,,388691,452767,Craven District Council,05/2008/8885,,,,,,21/07/2008,,18/02/2009,,,,,,,,,,,,
 EN00615,3070,13/09/2011,Scottish and Southern Energy (SSE),Durran Mains,Wind Onshore,,,19.50,,,,,,1.50,13,,,Planning Permission Refused,Application Refused,,,Land at Mains of Durran Castletown Thurso,Highland,Scotland,Scotland,,319500,963500,Highland Council,08/00386/FULCA,,,,,,26/08/2008,,22/11/2010,,,,,,,,,,,,
@@ -530,7 +560,11 @@ IF1280,3085,03/07/2013,Private Developer,Priestside Farm,Wind Onshore,,,1.80,,,,
 IF1434,3086,03/10/2013,WhiteRock Energy UK Ltd,Cowdenhead Wind Turbines,Wind Onshore,,,1.50,,,,,,0.75,2,,,Planning Permission Refused,Application Refused,,,"STANDHILL FARM, ARMADALE",Lothian,Scotland,Scotland,,296852,667243,West Lothian Council,0146/FUL/13,,,,,,05/03/2013,,11/09/2013,,,,,,,,,,,,
 N00002W,3087,06/01/2010,Private Developer,High Pow Farm,Wind Onshore,,,3.90,,,,,,1.30,3,,,Revised,Revised,4029,,"High Pow Farm, Boltons Low Houses, Nr. Wigton ",Cumbria,North West,England,,323550,544400,Allerdale Borough Council,2/03/1023,,,,,,04/09/2003,06/10/2004,,,,,,,,,,,,,
 N00003W,3088,11/09/2011,Ecotricity,Lowick Beacon,Wind Onshore,,,4.20,,,,,,1.40,3,,,Planning Permission Refused,Application Refused,,,Lowick Beacon (village common),Cumbria,North West,England,,328700,484000,South Lakeland District Council,5/00/2278,,,,,,29/08/2000,,30/03/2001,,,,,,,,,,,,
-N00005W,3089,06/01/2010,Ecotricity,Lynch Knoll Wind Farm (Extension),Wind Onshore,,,1.50,,,,,,0.50,3,,,Appeal Withdrawn,Appeal Withdrawn,,,"Lynch Knoll Wind Farm, Partfield Farm, Tinkley Lane, Nympsfield, Stonehous",Gloucestershire,South West,England,,381600,200400,Stroud District Council,S. 00/1628,,,,,,09/10/2000,,10/12/2000,,09/04/2001,,,,,,,,,,
+N00005W,3089,06/01/2010,Ecotricity,Lynch Knoll Wind Farm (Extension),Wind Onshore,,,1.50,,,,,,0.50,3,,,Appeal Withdrawn,Appeal Withdrawn,,,"Lynch Knoll Wind Farm
+, Partfield Farm
+, Tinkley Lane, 
+Nympsfield
+, Stonehous",Gloucestershire,South West,England,,381600,200400,Stroud District Council,S. 00/1628,,,,,,09/10/2000,,10/12/2000,,09/04/2001,,,,,,,,,,
 N00007W,3090,27/11/2001,National Energy Laboratories (NEL),Myres Hill,Wind Onshore,,,1.80,,,,,,0.90,2,,,Operational,Operational,,,Galloway,Strathclyde,Scotland,Scotland,,256840,646620,East Renfrewshire Council,99/0406/TP,,,,,,01/05/1999,,,,,,,31/08/2001,,,,,,01/11/2001,
 N00011W,3092,04/07/2012,REG Windpower (previously Cornwall Light & Power),High Sharpley Wind Farm,Wind Onshore,,,2.60,,,,,,1.30,2,,,Operational,Operational,,,"High Sharpley and South Sharpley Farms
 Near Seaham
@@ -564,9 +598,13 @@ near Ballyclare
 County Antrim",Co. Antrim,Northern Ireland,Northern Ireland,,134974,546006,Northern Ireland Planning Service,,,,,,,18/11/1993,,,,,,,26/10/1994,,,,,,01/04/1995,
 N00041W,3107,02/12/2014,Private Developer,Cheverton Down Farm ,Wind Onshore,,,9.00,,,,,,3.00,3,,,Revised,Revised,3481,3164,"Limerstone Down, Brightsone Forest, Brightstone",Isle of Wight,South East,England,,443800,83800,Isle of Wight Council,P/00021/09,,,,,,21/05/2001,,22/12/2009,,,30/08/2011,,,,,,,,,
 N00044W,3108,18/05/2017,Innogy (formerly RWE npower),Causeymire,Wind Onshore,,,48.30,,,,,,2.00,24,,,Operational,Operational,,,"Causey Mire, Caithness, Highlands",Highland,Scotland,Scotland,,336736,951086,Highland Council,01/00361/FULCA,,,,,,01/11/2001,,,,,,,19/11/2002,,,,,,01/06/2004,
-N00045W,3109,06/05/2009,Scottish and Southern Energy (SSE),Hadyard Hill,Wind Onshore,,,120.00,,,,,,2.30,52,,,Operational,Operational,,,"Hadyard Hill, East of Girvan, South Ayrshire",Strathclyde,Scotland,Scotland,,226478,599253,Scottish Government (S36),03/01745/DEEM,,,,,,27/05/2003,,,,,,,29/12/2003,,,,,01/05/2006,08/05/2006,
+N00045W,3109,06/05/2009,Scottish and Southern Energy (SSE),Hadyard Hill,Wind Onshore,,,120.00,,,,,,2.30,52,,,Operational,Operational,,,"Hadyard Hill
+, East of Girvan
+, South Ayrshire",Strathclyde,Scotland,Scotland,,226478,599253,Scottish Government (S36),03/01745/DEEM,,,,,,27/05/2003,,,,,,,29/12/2003,,,,,01/05/2006,08/05/2006,
 N00046W,3110,09/05/2013,Powergen,Hare Hill (B),Wind Onshore,,,2.70,,,,,,1.35,2,,,Operational,Operational,,,"Hare Hill, Durham",County Durham,North East,England,,437735,540895,Durham County Council,,,,,,,01/04/1994,,,,,,,01/03/1997,,,,,,02/07/2004,
-N00048W,3111,10/06/2005,Ron Shanks Waste Management Ltd,Stoneyhill,Wind Onshore,,,30.60,,,,,,0.90,34,,,Planning Application Withdrawn,Application Withdrawn,,,"Just west of Stoneyhill, Peterhead, Aberdeenshire",Grampian,Scotland,Scotland,,364500,858500,Aberdeenshire Council,N020466PF,,,,,,,10/06/2005,,,,,,,,,,,,,
+N00048W,3111,10/06/2005,Ron Shanks Waste Management Ltd,Stoneyhill,Wind Onshore,,,30.60,,,,,,0.90,34,,,Planning Application Withdrawn,Application Withdrawn,,,"Just west of Stoneyhill
+, Peterhead
+, Aberdeenshire",Grampian,Scotland,Scotland,,364500,858500,Aberdeenshire Council,N020466PF,,,,,,,10/06/2005,,,,,,,,,,,,,
 N0004W1,3112,29/08/2017,B9 Energy Services Ltd/ ScottishPower Renewables,Rigged Hill Wind Farm,Wind Onshore,,,5.00,,,,,,0.50,10,,,Operational,Operational,,,"Rigged Hill, 11km east of Limavady, County Londonderry",Co. Derry / Londonderry,Northern Ireland,Northern Ireland,,92064,580329,Northern Ireland Planning Service,,,,,,,19/11/1993,,,,,,,01/07/1994,,,,,,01/11/1994,
 N00050W,3113,05/01/2015,Greencoat UK Wind,Bin Mountain,Wind Onshore,,,9.00,,,,,,1.50,6,,,Operational,Operational,,,"Lough Hill
 Castle Craig, Curraghmacall
@@ -588,13 +626,19 @@ N0006W1,3122,08/10/2013,Sean Quinn Group,Slieve Rushen Phase 1 Wind Farm,Wind On
 Derrylin
 20km south of Enniskillen, County Fermanagh",Co. Fermanagh,Northern Ireland,Northern Ireland,,33019,491811,Northern Ireland Planning Service,,,,,,,15/05/1992,,,,,,,02/11/1992,,,,,,01/12/1995,
 N00070W,3123,16/04/2008,Airtricity,Kilpatrick Hills,Wind Onshore,,,60.00,,,,,,,,,,Planning Application Withdrawn,Application Withdrawn,,,"Kilpatrick Hills, near Glasgow",Strathclyde,Scotland,Scotland,,247500,676500,Scottish Government (S36),,,,,,,,16/04/2008,,,,,,,,,,,,,
-N00073W,3125,29/06/2011,Corus,Tees Wind North,Wind Onshore,,,45.00,,,,,,2.50,18,,,Abandoned,Abandoned,,,"Corus site, Middleborough, Teeside",Cleveland,North East,England,,456000,524000,Redcar and Cleveland Borough Council,R/2001/936/FF,,,,,,16/12/2001,,,,,,,16/07/2002,,,,,,,
+N00073W,3125,29/06/2011,Corus,Tees Wind North,Wind Onshore,,,45.00,,,,,,2.50,18,,,Abandoned,Abandoned,,,"Corus site
+, Middleborough
+, Teeside
+",Cleveland,North East,England,,456000,524000,Redcar and Cleveland Borough Council,R/2001/936/FF,,,,,,16/12/2001,,,,,,,16/07/2002,,,,,,,
 N00076W,3126,23/10/2009,Private Developer,Boulfruich,Wind Onshore,,,13.00,,,,,,0.85,15,,,Operational,Operational,,,"Houstry
 Dunbeath
 Caithness",Highland,Scotland,Scotland,,315500,935500,Highland Council,CA2001306,,,,,,17/09/2001,,,,,,,29/05/2002,,,,,,01/08/2005,
 N00077W,3127,24/11/2015,Scottish Power Renewables,Inverliever,Wind Onshore,,,47.50,,,,,,,17,,,Planning Permission Refused,Application Refused,,,"Inverliever Forest
 Former Estate",Strathclyde,Scotland,Scotland,,191000,712000,Argyll and Bute Council,04/02070/DET,,,,,,19/11/2002,,24/08/2005,,,,,,,,,,,,
-N00078W,3128,15/09/2010,Wind Prospect,Bicker Fen,Wind Onshore,,,26.70,,,,,,2.00,13,,,Operational,Operational,,,"Bicker Fen, Bicker, Boston, Lincolnshire",Lincolnshire,East Midlands,England,,519870,339325,Boston Borough Council,B/03/0189,,,,,,10/03/2003,,,,,,,15/10/2004,,,,,01/06/2006,28/07/2008,
+N00078W,3128,15/09/2010,Wind Prospect,Bicker Fen,Wind Onshore,,,26.70,,,,,,2.00,13,,,Operational,Operational,,,"Bicker Fen
+, Bicker
+, Boston
+, Lincolnshire",Lincolnshire,East Midlands,England,,519870,339325,Boston Borough Council,B/03/0189,,,,,,10/03/2003,,,,,,,15/10/2004,,,,,01/06/2006,28/07/2008,
 N00079W,3129,06/05/2009,Powergen / Wind Prospects,Stags Holt,Wind Onshore,,,18.00,,,,,,2.00,9,,,Operational,Operational,,,"March
 Cambridgeshire",Cambridgeshire,Eastern,England,,544000,299000,Fenland District Council,F/YR01/1269/F,,,,,,21/12/2001,,,,,,,23/05/2002,,,,,01/04/2007,01/10/2007,
 N00081W,3130,05/01/2015,Greencoat UK Wind,Tappaghan,Wind Onshore,,,19.50,,,,,,1.50,13,,,Operational,Operational,,,"Lack, Tappaghan Mountains, Northern Ireland",Co. Fermanagh,Northern Ireland,Northern Ireland,,31856,531807,Northern Ireland Planning Service,L/2002/1042/F,,,,,,01/08/2002,,,,,,,03/11/2003,,,,,,01/02/2005,
@@ -643,14 +687,19 @@ Glyn Ceriog
 Llangollen,
 Wrexham
 LL20 7BY",Clwyd,Wales,Wales,,320526,336486,Wrexham County Borough Council,P/2002/0538,,,,,,22/05/2002,,09/09/2002,,,,,,,,,,,,
-N00119W,3153,16/04/2005,Private Developer,Lluest Wen Energy Centre,Wind Onshore,,,2.60,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Land at Ffermdy Lluest Wen, Llangynwyd, Maesteg",Mid Glamorgan,Wales,Wales,,284000,189000,Bridgend County Borough Council,02/0704/FUL/DCD,,,,,,28/06/2002,,01/10/2002,,,,,,,,,,,,
+N00119W,3153,16/04/2005,Private Developer,Lluest Wen Energy Centre,Wind Onshore,,,2.60,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Land at Ffermdy Lluest Wen
+, Llangynwyd
+, Maesteg",Mid Glamorgan,Wales,Wales,,284000,189000,Bridgend County Borough Council,02/0704/FUL/DCD,,,,,,28/06/2002,,01/10/2002,,,,,,,,,,,,
 N00120W,3154,15/11/2005,Ecotricity,Sedgeford,Wind Onshore,,,10.80,,,,,,,,,,Planning Application Withdrawn,Application Withdrawn,,,"Off Sedgeford Road
 King's Lynn and West Norfolk",Norfolk,Eastern,England,,570780,335130,King's Lynn and West Norfolk Borough Council,2/02/1616/F,,,,,,,15/11/2005,,,,,,,,,,,,,
 N00121W,3155,31/03/2015,REG Windpower,Ramsey 1,Wind Onshore,,,1.80,,,,,,1.80,1,,,Operational,Operational,,,"Rear of Packing Station
 St Mary's Road
 Ramsey
 Cambs",Cambridgeshire,Eastern,England,,528800,284900,Huntingdonshire District Council,0300478/FUL,,,,,,11/03/2003,,,,,,,23/04/2004,,,,,,30/09/2008,
-N00122W,3156,29/11/2005,Private Developer,Penpell Wind Cluster,Wind Onshore,,,2.60,,,,,,,2,,,Planning Permission Refused,Application Refused,,,"Penpell Farm, Par, Cornwall",Cornwall,South West,England,PL24 2SA,207780,55000,Cornwall Council,301146,APP/Q0830/A/05/1189328,,,,,12/06/2003,,01/04/2005,,,,,,,,,,,,
+N00122W,3156,29/11/2005,Private Developer,Penpell Wind Cluster,Wind Onshore,,,2.60,,,,,,,2,,,Planning Permission Refused,Application Refused,,,"Penpell Farm
+, Par
+, Cornwall
+",Cornwall,South West,England,PL24 2SA,207780,55000,Cornwall Council,301146,APP/Q0830/A/05/1189328,,,,,12/06/2003,,01/04/2005,,,,,,,,,,,,
 N00123W,3157,04/12/2009,Ecotricity,Bambers Farm,Wind Onshore,,,9.60,,,,,,0.60,8,,,Operational,Operational,,,"Mile Lane, Mablethorpe, Lincolnshire",Lincolnshire,East Midlands,England,,549195,382820,East Lindsey District Council,N/110/00269/03,,,,,,18/02/2003,,15/06/2003,,,,,,,,,,,01/11/2004,
 N00124W,3158,05/08/2011,Ecotricity,Ford Wind Park - Dagenham,Wind Onshore,,,5.90,,,,,,2.96,2,,,Operational,Operational,,,"Ford Motor Company Estate
 Kent Avenue
@@ -668,7 +717,8 @@ N00133W,3164,05/12/2008,National Wind Power,Cheverton Down,Wind Onshore,,,1.20,,
 N00137W,3166,18/10/2005,Orkney Sustainable Energy,Hill of Garvock Wind Energy Project,Wind Onshore,,,15.00,,,,,,2.50,6,,,Planning Application Withdrawn,Application Withdrawn,,,"East Bradieston Farm
 Laruencekirk",Grampian,Scotland,Scotland,,370000,770000,Aberdeenshire Council,SO 30676PF,,,,,,,18/10/2005,,,,,,,,,,,,,
 N00143W,3167,08/10/2013,Airtricity,Slieve Beagh,Wind Onshore,,,30.00,,,,,,2.00,12,,,Planning Application Withdrawn,Application Withdrawn,,,"Slieve Beagh, Outside Clogher, County Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,,68890,516118,Northern Ireland Planning Service,M/2003/0999/F,,,,,,,08/10/2013,,,,,,,,,,,,,
-N00144W,3168,02/08/2017,Bessy Bell Windfarm,Bessy Bell Extension,Wind Onshore,,,9.00,,,,,,1.30,6,,,Operational,Operational,,,"Bessy Bell Moutain, 5km south of Newtownstewart, 17km south of Strabane and 9km northwest of Omagh",Co. Tyrone,Northern Ireland,Northern Ireland,,50592,547973,Northern Ireland Planning Service,,,,,,,03/06/2003,,,,,,,10/01/2005,,,,,,24/04/2008,
+N00144W,3168,02/08/2017,Bessy Bell Windfarm,Bessy Bell Extension,Wind Onshore,,,9.00,,,,,,1.30,6,,,Operational,Operational,,,"Bessy Bell Moutain
+, 5km south of Newtownstewart, 17km south of Strabane and 9km northwest of Omagh",Co. Tyrone,Northern Ireland,Northern Ireland,,50592,547973,Northern Ireland Planning Service,,,,,,,03/06/2003,,,,,,,10/01/2005,,,,,,24/04/2008,
 N00147W,3170,29/06/2011,AMEC,Minch Moor,Wind Onshore,,,21.60,,,,,,1.80,12,,,Planning Permission Refused,Application Refused,,,"Walkerburn
 Scottish Borders",Borders,Scotland,Scotland,,336300,633500,Scottish Borders Council,03/00627/FUL,,,,,,11/04/2003,,09/08/2010,,,,,,,,,,,,
 N00150W,3171,06/05/2009,Hainsford Energy,Caton Moor Windfarm Repowering,Wind Onshore,,,16.00,,,,,,2.00,8,,,Operational,Operational,,,"Littledale,
@@ -685,8 +735,12 @@ Zelston",Dorset,South West,England,,387240,97840,North Dorset District Council,2
 N00156W,3176,26/08/2005,Windworks (National Wind Power),Island Park Lodge,Wind Onshore,,,1.30,,,,,,,,,,Planning Application Withdrawn,Application Withdrawn,,,"Island Park Lodge Caravan and Camping Park
 Kingsbridge
 Devon",Devon,South West,England,,273200,44700,South Hams District Council,08/0180/02,,,,,,28/01/2002,24/05/2002,,,,,,,,,,,,,
-N00159W,3177,27/02/2018,Munich Re (previously Peel),Scout Moor Windfarm,Wind Onshore,,,65.00,,,,,,2.50,26,,,Operational,Operational,,,"Land at Scout Moor, off Edenfield Road, Rochdale",Lancashire,North West,England,,382400,419200,DECC (S36),,,,,,,30/06/2003,,,,,,,25/05/2005,,,,,01/09/2007,01/06/2008,
-N00162W,3178,30/05/2009,Wind Prospect,Morris Fen (Wind),Wind Onshore,,,16.00,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Morris Fen, Near Thorney (NEE), Peterborough",Cambridgeshire,Eastern,England,,530000,305000,Peterborough City Council,03/01247/FUL,,,,,,05/09/2003,,23/04/2004,,,,,,,,,,,,
+N00159W,3177,27/02/2018,Munich Re (previously Peel),Scout Moor Windfarm,Wind Onshore,,,65.00,,,,,,2.50,26,,,Operational,Operational,,,"Land at Scout Moor
+, off Edenfield Road
+, Rochdale",Lancashire,North West,England,,382400,419200,DECC (S36),,,,,,,30/06/2003,,,,,,,25/05/2005,,,,,01/09/2007,01/06/2008,
+N00162W,3178,30/05/2009,Wind Prospect,Morris Fen (Wind),Wind Onshore,,,16.00,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Morris Fen
+, Near Thorney (NEE)
+, Peterborough",Cambridgeshire,Eastern,England,,530000,305000,Peterborough City Council,03/01247/FUL,,,,,,05/09/2003,,23/04/2004,,,,,,,,,,,,
 N00163W,3179,26/09/2005,Private Developer,The Haven,Wind Onshore,,,1.20,,,,,,1.20,1,,,Operational,Operational,,,"The Haven
 Oxhill Farm
 Blackmor Park
@@ -706,7 +760,8 @@ Caithness",Highland,Scotland,Scotland,,308500,961500,Highland Council,CA2003323,
 N00173W,3183,06/05/2009,Renewable Development Company (RDC),Strathbora,Wind Onshore,,,46.00,,,,,,,19,,,Planning Application Withdrawn,Application Withdrawn,,,"Strath Brora
 Rogart
 Sutherland",Highland,Scotland,Scotland,,272100,911100,Highland Council,SU2003332,,,,,,,06/05/2009,,,,,,,,,,,,,
-N00174W,3184,26/10/2005,,Mynydd James Wind Farm,Wind Onshore,,,31.20,,,,,,1.30,24,,,Planning Application Withdrawn,Application Withdrawn,,,"Coitoi Mountain, Blaenau Gwent",Gwent,Wales,Wales,,321022,209556,Blaenau Gwent County Borough Council,2003/0494,,,,,,,26/10/2005,,,,,,,,,,,,,
+N00174W,3184,26/10/2005,,Mynydd James Wind Farm,Wind Onshore,,,31.20,,,,,,1.30,24,,,Planning Application Withdrawn,Application Withdrawn,,,"Coitoi Mountain
+, Blaenau Gwent",Gwent,Wales,Wales,,321022,209556,Blaenau Gwent County Borough Council,2003/0494,,,,,,,26/10/2005,,,,,,,,,,,,,
 N00179W,3186,06/01/2010,National Wind Power,The Hollies,Wind Onshore,,,2.60,,,,,,1.30,2,,,Operational,Operational,,,"The Hollies
 High Lane 
 Croft
@@ -733,11 +788,16 @@ Lincs",Lincolnshire,East Midlands,England,,545100,383980,East Lindsey District C
 N00204W,3197,29/06/2011,Star Energy,Welton Gathering Centre,Wind Onshore,,,2.00,,,,,,2.00,1,,,Planning Application Withdrawn,Application Withdrawn,,,"Welton Gathering Centre
 Barfields Lane
 Sudbroke",Lincolnshire,East Midlands,England,,504380,374990,West Lindsey District Council,M03/p/1291,,,,,,,29/06/2011,,,,,,,,,,,,,
-N00205W,3198,29/06/2011,Star Energy,Nettleham Oil Production Facility,Wind Onshore,,,1.30,,,,,,1.30,1,,,Planning Application Withdrawn,Application Withdrawn,,,"Nettleham Oil Production Facility, Off Greenwell Lane, Nettleham",Lincolnshire,East Midlands,England,,499940,374140,West Lindsey District Council,M03/p/1292,,,,,,,29/06/2011,,,,,,,,,,,,,
-N00206W,3199,04/02/2009,Star Energy,Stainton Oil Production Facility,Wind Onshore,,,28.00,,,,,,2.00,14,,,Planning Application Withdrawn,Application Withdrawn,,,"Stainton Oil Production Facility, Ashing Lane, Dunholme",Lincolnshire,East Midlands,England,,505510,378860,West Lindsey District Council,M03/p/1293,,,,,,,04/02/2009,,,,,,,,,,,,,
+N00205W,3198,29/06/2011,Star Energy,Nettleham Oil Production Facility,Wind Onshore,,,1.30,,,,,,1.30,1,,,Planning Application Withdrawn,Application Withdrawn,,,"Nettleham Oil Production Facility
+, Off Greenwell Lane
+, Nettleham",Lincolnshire,East Midlands,England,,499940,374140,West Lindsey District Council,M03/p/1292,,,,,,,29/06/2011,,,,,,,,,,,,,
+N00206W,3199,04/02/2009,Star Energy,Stainton Oil Production Facility,Wind Onshore,,,28.00,,,,,,2.00,14,,,Planning Application Withdrawn,Application Withdrawn,,,"Stainton Oil Production Facility
+, Ashing Lane
+, Dunholme",Lincolnshire,East Midlands,England,,505510,378860,West Lindsey District Council,M03/p/1293,,,,,,,04/02/2009,,,,,,,,,,,,,
 N00211W,3200,04/06/2015,Tetro Energy Ltd (ECO2),Dummuie,Wind Onshore,,,12.30,,,,,,1.75,7,,,Operational,Operational,,,"East Dummuie
 Huntly",Grampian,Scotland,Scotland,,358600,840300,Aberdeenshire Council,APP/2003/0084,,,,,,20/08/2003,,20/02/2004,,,,,,,,,,01/06/2006,01/01/2007,
-N00213W,3201,27/06/2016,Falck Renewables,Earlsburn,Wind Onshore,,,37.50,,,,,,2.50,14,,,Operational,Operational,,,"Hart Hill, Fintry, Stirling",Stirling,Scotland,Scotland,,269652,688422,Stirling Council,03/00936/DET,,,,,,17/11/2003,,,,,,,01/07/2004,,,,,01/07/2006,01/02/2007,
+N00213W,3201,27/06/2016,Falck Renewables,Earlsburn,Wind Onshore,,,37.50,,,,,,2.50,14,,,Operational,Operational,,,"Hart Hill, Fintry
+, Stirling",Stirling,Scotland,Scotland,,269652,688422,Stirling Council,03/00936/DET,,,,,,17/11/2003,,,,,,,01/07/2004,,,,,01/07/2006,01/02/2007,
 N00215W,3202,23/10/2009,Renewable Development Company (RDC),Kilbraur Windfarm,Wind Onshore,,,47.50,,,,,,2.50,19,,,Operational,Operational,,,"Rogart, Sutherland
 (former Strath Brora Site)",Highland,Scotland,Scotland,,278550,907550,Highland Council,SU2004125,,,,,,04/09/2003,,,,,,,01/04/2006,,,,,01/09/2007,14/06/2008,
 N00218W,3203,20/03/2009,Private Developer,South Shebster,Wind Onshore,,,10.00,,,,,,2.00,5,,,Planning Permission Refused,Application Refused,,,"South Shebster
@@ -750,16 +810,27 @@ N00226W,3207,23/10/2009,Private Developer,Bilbster Wind Farm,Wind Onshore,,,3.90
 N00231W,3208,08/10/2013,BHEARA Ltd,Merthyr Common,Wind Onshore,,,24.30,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Land at Merthyr Common, North of Pengarnddu Industrial Estate, Pengarndduville",Mid Glamorgan,Wales,Wales,,307500,210500,Merthyr Tydfil County Borough Council,P/04/0361,,,,,,12/08/2004,,15/11/2005,,,,,,,,,,,,
 N00232W,3209,04/12/2008,Ecotricity,Spring Farm (wind),Wind Onshore,,,6.00,,,,,,2.00,3,,,Planning Application Withdrawn,Application Withdrawn,,,"Spring Farm
 Bramshall",Staffordshire,West Midlands,England,,405814,333093,East Staffordshire Borough Council,,,,,,,,04/12/2008,,,,,,,,,,,,,
-N00233W,3210,06/05/2009,Ecotricity / Prudential,Green Park,Wind Onshore,,,2.00,,,,,,2.00,1,,,Operational,Operational,,,"Plot 12, South Oak Way, Green Park, Reading, Berkshire",Berkshire,South East,England,,470640,169375,Wokingham Borough Council,F/2004/1418,,,,,,17/03/2004,,,,,,,28/07/2004,,,,,,01/10/2005,
+N00233W,3210,06/05/2009,Ecotricity / Prudential,Green Park,Wind Onshore,,,2.00,,,,,,2.00,1,,,Operational,Operational,,,"Plot 12
+, South Oak Way
+, Green Park
+, Reading
+, Berkshire",Berkshire,South East,England,,470640,169375,Wokingham Borough Council,F/2004/1418,,,,,,17/03/2004,,,,,,,28/07/2004,,,,,,01/10/2005,
 N00239W,3211,25/10/2011,Awel Aman Tawe,Mynydd Y Gwrhyd Windfarm,Wind Onshore,,,12.50,,,,,,2.50,5,,,Revised,Revised,5624,,Mynydd Y Gwrhyd,West Glamorgan,Wales,Wales,,272659,210474,Neath Port Talbot Council,P2004/1381,,,,,,04/09/2004,,01/09/2005,,,04/10/2006,,,,,,,,,
-N00240W,3212,07/12/2010,Hainsford Energy,Enyas Hill,Wind Onshore,,,6.00,,,,,,,3,,,Planning Permission Refused,Application Refused,,,"Enyas Hill, Rendall, Orkney",Orkney Islands,Scotland,Scotland,,340640,1020280,Orkney Islands Council,04/16/350/PPS,P/PPA/330/32,,,,,01/07/2004,,05/01/2005,,,,,,,,,,,,
+N00240W,3212,07/12/2010,Hainsford Energy,Enyas Hill,Wind Onshore,,,6.00,,,,,,,3,,,Planning Permission Refused,Application Refused,,,"Enyas Hill
+, Rendall
+, Orkney",Orkney Islands,Scotland,Scotland,,340640,1020280,Orkney Islands Council,04/16/350/PPS,P/PPA/330/32,,,,,01/07/2004,,05/01/2005,,,,,,,,,,,,
 N00244W,3213,30/07/2010,WINDJEN POWER LTD,Dunion Hill Wind Farm,Wind Onshore,,,18.40,,,,,,2.30,8,,,Planning Permission Refused,Application Refused,,,"Land South West of Dunion Hill, Jedburgh, Scottish Borders",Borders,Scotland,Scotland,,361570,617476,Scottish Borders Council,05/02336/FUL,08/00011/REF,,,,,24/01/2006,,11/09/2007,,,,,,,,,,,,
 N00245W,3214,05/01/2015,Greencoat UK Wind,Carcant Windfarm,Wind Onshore,,,6.00,,,,,,2.00,3,,,Operational,Operational,,,Innerleithen,Borders,Scotland,Scotland,,336250,652850,Scottish Borders Council,05/01884/FUL,,,,,,10/10/2005,,,,,,,15/09/2006,,,,,01/04/2010,02/11/2010,
 N00246W,3215,08/11/2005,RDC Scotland Ltd,Sell Moor Windfarm,Wind Onshore,,,47.50,,,,,,,,,,Planning Permission Refused,Application Refused,,,Lauder,Borders,Scotland,Scotland,,348050,644450,Scottish Borders Council,04/00350/FUL,,,,,,01/03/2004,,31/08/2005,,,,,,,,,,,,
-N00248W,3216,29/06/2005,Hargreaves Resources,Chalmerston,Wind Onshore,,,50.00,,,,,,,,,,Planning Application Withdrawn,Application Withdrawn,,,"Dalmellington, East Ayrshire",Strathclyde,Scotland,Scotland,,249750,608750,East Ayrshire Council,04/0406/FL,,,,,,,29/06/2005,,,,,,,,,,,,,
-N00249W,3217,06/04/2007,Ecogen and Eurus Energy UK,Largie Windfarm II,Wind Onshore,,,21.00,,,,,,,19,,,Planning Permission Refused,Application Refused,,,"Largie, Central Kintyre Ridge, Near Tayinloan",Strathclyde,Scotland,Scotland,,173827,650398,Argyll and Bute Council,04/01606/DET,,,,,,12/08/2004,,08/03/2007,,,,,,,,,,,,
-N00253W,3218,08/08/2011,E.ON UK,Butterwick Moor,Wind Onshore,,,20.50,,,,,,2.05,10,,,Operational,Operational,,,"Butterwick Moor, Sedgefield",County Durham,North East,England,,439000,530000,Durham County Council,7/2006/0796/DM,,,,,,02/01/2007,,,,,,,17/06/2007,,,,,01/09/2010,01/04/2011,
-N00255W,3219,07/12/2010,British Energy Renewables Ltd,Knowehead,Wind Onshore,,,60.00,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Near Dunning, Perthshire",Tayside,Scotland,Scotland,,316500,723500,Scottish Government (S36),04/01664/FUL,P/PPA/340/486,,,,,09/08/2004,,04/07/2005,,,,,,,,,,,,
+N00248W,3216,29/06/2005,Hargreaves Resources,Chalmerston,Wind Onshore,,,50.00,,,,,,,,,,Planning Application Withdrawn,Application Withdrawn,,,"Dalmellington
+, East Ayrshire",Strathclyde,Scotland,Scotland,,249750,608750,East Ayrshire Council,04/0406/FL,,,,,,,29/06/2005,,,,,,,,,,,,,
+N00249W,3217,06/04/2007,Ecogen and Eurus Energy UK,Largie Windfarm II,Wind Onshore,,,21.00,,,,,,,19,,,Planning Permission Refused,Application Refused,,,"Largie,
+ Central Kintyre Ridge,
+ Near Tayinloan",Strathclyde,Scotland,Scotland,,173827,650398,Argyll and Bute Council,04/01606/DET,,,,,,12/08/2004,,08/03/2007,,,,,,,,,,,,
+N00253W,3218,08/08/2011,E.ON UK,Butterwick Moor,Wind Onshore,,,20.50,,,,,,2.05,10,,,Operational,Operational,,,"Butterwick Moor
+, Sedgefield",County Durham,North East,England,,439000,530000,Durham County Council,7/2006/0796/DM,,,,,,02/01/2007,,,,,,,17/06/2007,,,,,01/09/2010,01/04/2011,
+N00255W,3219,07/12/2010,British Energy Renewables Ltd,Knowehead,Wind Onshore,,,60.00,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Near Dunning,
+ Perthshire",Tayside,Scotland,Scotland,,316500,723500,Scottish Government (S36),04/01664/FUL,P/PPA/340/486,,,,,09/08/2004,,04/07/2005,,,,,,,,,,,,
 N00256W,3220,04/09/2009,Scottish Power Renewables,Hagshaw Hill Wind Farm Extension,Wind Onshore,,,26.00,,,,,,1.30,20,,,Operational,Operational,,,Extension to current Windfarm at Hagshaw Hill,Strathclyde,Scotland,Scotland,,279000,632000,South Lanarkshire Council,,,,,,,10/01/2005,,,,,,,28/12/2005,,,,,,01/10/2008,
 N00261W,3221,16/09/2005,E. ON UK Renewables,Denshaw Windfarm,Wind Onshore,,,10.50,,,,,,,7,,,Planning Permission Refused,Application Refused,,,"Land off Huddersfield Road,
 Denshaw",Greater Manchester,North West,England,,397658,410494,Oldham Council,PA46136-03,,,,,,04/12/2003,,23/02/2006,,,,,,,,,,,,
@@ -777,9 +848,14 @@ Bosworth and Conningham",Cambridgeshire,Eastern,England,,534322,266052,South Cam
 N00290W,3231,06/07/2010,Wind Prospect & Ridgewind,Montreathmont Moor,Wind Onshore,,,38.00,,,,,,2.00,11,,,Appeal Refused,Application Refused,,,Nr Friockheim,Tayside,Scotland,Scotland,,359200,753700,Angus Council,07/01632/FUL,947/08,,,,,07/02/2005,,09/06/2008,,,26/05/2009,,,,,,,,,
 N00291W,3232,06/04/2010,Your Energy,Pates Hill,Wind Onshore,,,14.00,,,,,,2.00,7,,,Operational,Operational,,,"West Calder Lothian, EH55",Lothian,Scotland,Scotland,,299130,659300,West Lothian Council,0653/FUL/07,,,,,,21/07/2005,,,,,,,01/06/2006,,,,,01/06/2009,20/01/2010,
 N00292W,3233,04/07/2012,REG Windpower (previously Cornwall Light and Power),Roskrow Wind Turbines,Wind Onshore,,,1.70,,,,,,0.85,2,,,Operational,Operational,,,"Roskrow Barton Farm, Roskrow, Penryn, Cornwall, TR10 9AP",Cornwall,South West,England,,176500,35500,Cornwall Council,PA02/01417,PA02/01417,,,,,01/12/2002,,25/02/2004,,,,25/02/2004,25/02/2004,,,,,,01/12/2007,
-N00296W,3234,09/06/2010,"A7 Energy, 42 Shepherd St, London",Edder Acres Farm,Wind Onshore,,,5.00,,,,,,2.30,2,,,Appeal Refused,Application Refused,,,"Shotton, Shotton colliery to the north and Bracken hill industrial estate to west off an unclassified road on the B1280",County Durham,North East,England,,439400,539700,Durham County Council,HIST/2004/1823,APP/H1325/A/06/2008033,,,,,21/12/2004,,13/10/2005,13/02/2006,,02/06/2006,,,,,,,,,
+N00296W,3234,09/06/2010,"A7 Energy, 42 Shepherd St, London",Edder Acres Farm,Wind Onshore,,,5.00,,,,,,2.30,2,,,Appeal Refused,Application Refused,,,"Shotton
+, Shotton colliery to the north and Bracken hill industrial estate to west off an unclassified road on the B1280",County Durham,North East,England,,439400,539700,Durham County Council,HIST/2004/1823,APP/H1325/A/06/2008033,,,,,21/12/2004,,13/10/2005,13/02/2006,,02/06/2006,,,,,,,,,
 N00299W,3235,09/06/2010,AMEC,Kyle Windfarm,Wind Onshore,,,255.00,,,,,,3.00,85,,,Planning Permission Refused,Application Refused,,,"Kyle forest, B714 road between New Cumnock and Dalmellington",Strathclyde,Scotland,Scotland,,249500,611500,Scottish Government (S36),IEC3/73,,,,,,29/10/2004,,24/10/2008,,,,,,,,,,,,
-N00309W,3236,23/10/2009,A7 Energy,Greendykeside,Wind Onshore,,,4.00,,,,,,2.00,2,,,Operational,Operational,,,"Greendykeside Farm, Longriggend, Airdrie, Lanarkshire",Strathclyde,Scotland,Scotland,ML6 7TT,281134,670403,North Lanarkshire Council,04/01624/FUL,,,,,,13/09/2004,,,,,,,11/05/2005,,,,,,01/11/2007,
+N00309W,3236,23/10/2009,A7 Energy,Greendykeside,Wind Onshore,,,4.00,,,,,,2.00,2,,,Operational,Operational,,,"Greendykeside Farm
+, Longriggend
+, Airdrie
+, Lanarkshire
+",Strathclyde,Scotland,Scotland,ML6 7TT,281134,670403,North Lanarkshire Council,04/01624/FUL,,,,,,13/09/2004,,,,,,,11/05/2005,,,,,,01/11/2007,
 N00310W,3237,24/07/2009,Salsburgh Windco Ltd,Salsburgh,Wind Onshore,,,24.00,,,,,,,10,,,Planning Application Withdrawn,Application Withdrawn,,,"Jersay Farm
 South of Salsburgh",Strathclyde,Scotland,Scotland,,282515,661635,North Lanarkshire Council,05/00132/FUL,,,,,,,24/07/2009,,,,,,,,,,,,,
 N00317W,3240,12/09/2011,Windjen Power Ltd / Dulas Ltd,Blaen Bowi Wind Farm (Extension),Wind Onshore,,,9.10,,,,,,3.00,3,,,Appeal Refused,Application Refused,,,BLAEN BOWI WIND FARM LAN FARM CAPEL IWAN NEWCASTLE EMLYN,Dyfed,Wales,Wales,SA38 9NN,232500,236000,Carmarthenshire County Council,W/09828,,,,,,26/04/2005,,28/09/2007,,,10/06/2009,,,,,,,,,
@@ -822,7 +898,11 @@ N00368W,3260,16/08/2011,Force 9 Energy,Mark Hill,Wind Onshore,,,56.00,,,,,,2.30,
 N00374W,3262,01/07/2011,Your Energy,Parham Airfield (wind),Wind Onshore,,,13.80,,,,,,2.30,6,,,Abandoned,Abandoned,,,"Parham Airfield
 between Great Glenham and Marlesford",Suffolk,Eastern,England,,632000,261000,Suffolk Coastal District Council,C05/0400,,,,,,01/03/2005,,,,,,,05/10/2005,,,,,,,
 N00380W,3263,01/08/2016,Screggagh Windfarm,Screggagh,Wind Onshore,,,19.50,,,,,,2.50,8,,,Operational,Operational,,,"Screggagh, Screggagh & Stranisk townlands, Fintona. Co Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,,54566,520549,Northern Ireland Planning Service,K/2005/0810/F,,,,,,18/04/2005,,,,,,,13/05/2008,,,,,01/07/2009,21/03/2011,
-N00386W,3264,09/06/2010,Private Developer,Westmill Wind Farm,Wind Onshore,,,6.50,,,,,,1.30,5,,,Operational,Operational,,,"Westmill Farm, Highworth Road, Watchfield, Swindon, Oxon",Oxfordshire,South East,England,SN6 8TH,423218,190825,Vale of White Horse District Council,WAT/1611/9/00,,,,,,01/09/2000,,,,,,,07/07/2005,,,,,,01/01/2008,
+N00386W,3264,09/06/2010,Private Developer,Westmill Wind Farm,Wind Onshore,,,6.50,,,,,,1.30,5,,,Operational,Operational,,,"Westmill Farm
+, Highworth Road
+, Watchfield
+, Swindon
+, Oxon",Oxfordshire,South East,England,SN6 8TH,423218,190825,Vale of White Horse District Council,WAT/1611/9/00,,,,,,01/09/2000,,,,,,,07/07/2005,,,,,,01/01/2008,
 N00388W,3265,16/11/2007,Private Developer,Clochnahill Windfarm,Wind Onshore,,,6.00,,,,,,2.00,3,,,Planning Permission Refused,Application Refused,,,"Clochnahill Farm
 Temple of Fiddes
 Mearns
@@ -833,7 +913,9 @@ N00396W,3267,02/08/2010,Harworth Power,Bleak House,Wind Onshore,,,6.50,,,,,,2.20
 N00404W,3268,05/10/2009,E.ON UK,Auchencorth Moss,Wind Onshore,,,45.00,,,,,,2.00,18,,,Planning Permission Refused,Application Refused,,,"Auchencorth Moss
 Penicuik
 Midlothian",Lothian,Scotland,Scotland,,321080,656760,Midlothian Council,06/00067/FUL,,,,,,27/01/2006,,12/02/2008,,,,,,,,,,,,
-N00407W,3270,25/06/2008,Mark Caudwell Ltd,Orby Windfarm,Wind Onshore,,,54.00,,,,,,,,,,Revised,Revised,4406,3138,"Orby Marsh, Hogsthorpe, Skegness",Lincolnshire,East Midlands,England,,551500,367500,DECC (S36),N/84/2334/05,,,,,,,25/06/2008,,,,,,,,,,,,,
+N00407W,3270,25/06/2008,Mark Caudwell Ltd,Orby Windfarm,Wind Onshore,,,54.00,,,,,,,,,,Revised,Revised,4406,3138,"Orby Marsh
+, Hogsthorpe,
+ Skegness",Lincolnshire,East Midlands,England,,551500,367500,DECC (S36),N/84/2334/05,,,,,,,25/06/2008,,,,,,,,,,,,,
 N00409W,3271,13/12/2005,Lomond Energy,Tillyrie,Wind Onshore,,,4.20,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Land At Tillyrie Farm
 Milnathort
 Kinross
@@ -848,7 +930,9 @@ Highland",Highland,Scotland,Scotland,,242193,905694,Scottish Government (S36),05
 N00432W,3275,08/03/2012,West Coast Energy/Yelland Wind Energy Ltd,Yelland Wind Farm,Wind Onshore,,,3.90,,,,,,1.30,3,,,Planning Permission Refused,Application Refused,,,"West of A386 
 on Bowerland Road",Devon,South West,England,,250500,86500,West Devon Borough Council,7276/2005/OKE,,,,,,01/09/2005,,08/11/2006,,,,,,,,,,,,
 N00433W,3276,05/02/2004,Ecotricity,Partfield Farm,Wind Onshore,,,5.60,,,,,,,,,,Planning Application Withdrawn,Application Withdrawn,,,"Partfield Farm, Nympsfield",Avon,South West,England,,365081,174670,South Gloucestershire Council,S.00/1628,,,,,,09/10/2000,08/05/2001,,,,,,,,,,,,,
-N00444W,3277,06/01/2010,RWE npower,"Carno 'A'and 'B' Wind Farm, (Extension)",Wind Onshore,,,15.60,,,,,,1.30,12,,,Operational,Operational,,,"Cwm Cledan, Carno, Powys",Powys,Wales,Wales,,293000,295000,Powys County Council,M2003/1156,,,,,,10/10/2003,,,,,,,10/07/2006,,,,,,01/03/2009,
+N00444W,3277,06/01/2010,RWE npower,"Carno 'A'and 'B' Wind Farm, (Extension)",Wind Onshore,,,15.60,,,,,,1.30,12,,,Operational,Operational,,,"Cwm Cledan
+, Carno
+, Powys",Powys,Wales,Wales,,293000,295000,Powys County Council,M2003/1156,,,,,,10/10/2003,,,,,,,10/07/2006,,,,,,01/03/2009,
 N00450W,3278,09/02/2011,Renewable Energy Systems (RES),Careston Estate,Wind Onshore,,,52.00,,,,,,2.00,26,,,Planning Application Withdrawn,Application Withdrawn,,,"Careston Estate, Angus",Tayside,Scotland,Scotland,,353500,760500,Scottish Government (S36),,,,,,,,09/02/2011,,,,,,,,,,,,,
 N00451W,3279,31/10/2011,Scottish and Southern Energy (SSE),Waterhead Moor,Wind Onshore,,,72.50,,,,,,2.50,29,,,Planning Application Withdrawn,Application Withdrawn,,,"North of Largs, Ayreshire",Strathclyde,Scotland,Scotland,,226029,665781,Scottish Government (S36),,,,,,,,31/10/2011,,,,,,,,,,,,,
 N00454W,3280,10/06/2009,Force 9 Energy/Catamount,Barmoor,Wind Onshore,,,27.00,,,,,,,9,,,Revised,Revised,4163,,NE of Ford,Northumberland,North East,England,,398000,638000,Northumberland County Council,06/B/0148,,,,,,02/03/2006,,27/03/2008,,,,,,,,,,,,
@@ -861,7 +945,9 @@ N00537W,3285,09/06/2010,Messrs James and Ronald Innes,Achairn,Wind Onshore,,,6.2
 N00540W,3287,09/05/2006,Orkney Sustainable Energy,Hill of Garvock Wind Energy Project (2),Wind Onshore,,,15.00,,,,,,2.50,6,,,Planning Permission Refused,Application Refused,,,"East Bradieston Farm
 Laruencekirk",Grampian,Scotland,Scotland,,370000,770000,Aberdeenshire Council,APP2004/1412,P/PPA/110/504,,,,,22/04/2004,,26/10/2004,,,,,,,,,,,,
 N00541W,3288,11/06/2008,Scottish and Southern Energy (SSE),Muckla Moor,Wind Onshore,,,249.00,,,,,,,83,,,Planning Application Withdrawn,Application Withdrawn,,,4km NW of Herra,Shetland,Scotland,Scotland,,443750,1167550,Scottish Government (S36),,,,,,,,11/06/2008,,,,,,,,,,,,,
-N00545W,3289,27/10/2005,CATAMOUNT CYMRU CYF (agent ENTEC UK Ltd) Force 9 Energy,Blaengwen Farm,Wind Onshore,,,30.20,,,,,,3.00,10,,,Revised,Revised,4670,,"Pencader, Carms.",Dyfed,Wales,Wales,SA39 94P,246387,233404,Carmarthenshire County Council,W/09205,,,,,,27/01/2005,,24/11/2005,,,,,,,,,,,,
+N00545W,3289,27/10/2005,CATAMOUNT CYMRU CYF (agent ENTEC UK Ltd) Force 9 Energy,Blaengwen Farm,Wind Onshore,,,30.20,,,,,,3.00,10,,,Revised,Revised,4670,,"Pencader
+, Carms.
+",Dyfed,Wales,Wales,SA39 94P,246387,233404,Carmarthenshire County Council,W/09205,,,,,,27/01/2005,,24/11/2005,,,,,,,,,,,,
 N00548W,3290,06/05/2009,EDF Energy,High Hedley Hope 2 (Extension),Wind Onshore,,,5.20,,,,,,1.30,4,,,Operational,Operational,,,"High Hedley Farm, Tow Law, Bishop Auckland, County Durham",County Durham,North East,England,,415700,541000,Durham County Council,,,,,,,12/08/2004,,,,,,,06/07/2005,,,,,,25/06/2008,
 S0001W2,3292,30/07/2013,CRE Energy/ Scottish Power,Beinn an Tuirc,Wind Onshore,,,30.00,,,,,,0.37,46,,,Operational,Operational,,,Nr. Carradale,Strathclyde,Scotland,Scotland,,173950,636900,Argyll and Bute Council,,,,,,,20/04/1998,,,,,,,28/04/1999,,,,,,23/12/2001,
 S0002W1,3293,06/08/2004,Micon Wind Turbines (UK) Ltd,West Garty Wind Farm,Wind Onshore,,,12.00,,,,,,,16,,,Revised,Revised,3919,,"West Garty Estate, Near Helmsdale, Sutherland",Highland,Scotland,Scotland,,297000,914000,Highland Council,,,,,,,09/10/1995,,19/07/1999,,,,,,,,,,,,
@@ -891,7 +977,9 @@ C2138,3319,04/05/2016,Estuary Energy,Perry's Farm Wind Farm,Wind Onshore,,,6.80,
 C1563,3320,14/11/2013,Gartly Wind Partnership,Hill of Corksie ,Wind Onshore,,,7.20,,,,,,0.90,8,,,Revised,Revised,3348,2693,"Hill of Corskie, Gartly,  Huntly",Grampian,Scotland,Scotland,,354484,832718,Aberdeenshire Council,APP/2013/2063,,,,,,03/07/2013,08/10/2013,,,,,,,,,,,,,
 C1708,3321,05/01/2015,Windflow UK,New Holland,Wind Onshore,,,1.00,,,,,,0.50,2,,,Operational,Operational,,,"Land Near New Holland, Stratheast Road, Holm, Orkney, Orkney Isles",Orkney Islands,Scotland,Scotland,KW17 2SA,350053,1003214,Orkney Islands Council,13/261/TPP,,,,,,29/07/2013,,,,,,,06/11/2013,,,,,,20/10/2014,
 B0067,3324,24/12/2013,REG Windpower,High Pow Extension,Wind Onshore,,,16.00,,,,,,2.00,8,,,Planning Application Withdrawn,Application Withdrawn,,,"Percy Hill, Boltongate, Wigton, Cumbria",Cumbria,North West,England,,324221,543085,Allerdale Borough Council,2/2013/0519,,,,,,12/07/2013,23/12/2013,,,,,,,,,,,,,
-B1041,3325,13/06/2019,Seegronan Windfarm,Seegronan Wind Farm Extension,Wind Onshore,,,9.00,,,,,,3.00,3,,,Appeal Granted,Awaiting Construction,,,"Killeter, Strabane, Co Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,,122608,534966,Northern Ireland Planning Service,J/2013/0187/F,2014/A0180,,,,,09/07/2013,,,03/12/2014,,,30/06/2017,30/06/2017,,,,30/06/2022,,,
+B1041,3325,13/06/2019,Seegronan Windfarm,Seegronan Wind Farm Extension,Wind Onshore,,,9.00,,,,,,3.00,3,,,Appeal Granted,Awaiting Construction,,,"Killeter
+, Strabane
+, Co Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,,122608,534966,Northern Ireland Planning Service,J/2013/0187/F,2014/A0180,,,,,09/07/2013,,,03/12/2014,,,30/06/2017,30/06/2017,,,,30/06/2022,,,
 B1043,3326,27/05/2016,Scottish and Southern Energy (SSE),Bessy Bell 3 Wind Farm,Wind Onshore,,,25.00,,,,,,2.30,10,,,Appeal Refused,Application Refused,,,"Bessy Bell Mountain Baronscourt Estate Newtownstewart, County Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,,49687,547922,Northern Ireland Planning Service,J/2013/0080/F,2013/A0220,,,,,28/03/2013,,16/05/2016,01/02/2014,,16/05/2016,,,,,,,,,
 B1045,3328,18/11/2021,3R Energy Solutions Limited,Cumberhead West Wind Farm,Wind Onshore,,,126.00,No,,,119.70,AR4,6.00,21,200.00,,Planning Permission Granted,Awaiting Construction,,,Cumberhead Forest,Strathclyde,Scotland,Scotland,ML11 9AX,281169,635550,Scottish Government (S36), ECU00002171,,,,,,02/12/2020,,,,,,,18/11/2021,,,,18/11/2027,,,
 12019W3,3334,19/12/2013,West Coast Energy,Sober Hill Wind Farm,Wind Onshore,,,1.50,,,,,,0.25,6,,,Revised,Revised,4327,,Sober Hill Wind Farm North Newbald ,Humberside,Yorkshire and Humber,England,,492444,438545,East Riding of Yorkshire Council,,,,,,,01/09/1995,,14/12/1995,,,,,,,,,,,,
@@ -915,7 +1003,10 @@ B0324,3354,15/04/2016,Bernard Matthews,Weston Airfield Wind Turbines,Wind Onshor
 AA799,3355,03/03/2014,Kelda Water Services,Penny Pot Wind Farm,Wind Onshore,,,21.00,,,,,,3.00,7,,,Planning Application Withdrawn,Application Withdrawn,,,land next to Scargill Reservoir,North Yorkshire,Yorkshire and Humber,England,,423929,455429,Harrogate Borough Council,,,,,,,27/07/2012,06/02/2014,,,,,,,,,,,,,
 B1256,3356,05/11/2015,Airvolution Energy,Washpit Drove,Wind Onshore,,,4.70,,,,,,2.35,2,,,Planning Application Withdrawn,Application Withdrawn,,,between Swaffham and Sporle,Norfolk,Eastern,England,,583110,310388,Breckland Council,3PL/2014/0106/F,,,,,,17/02/2014,06/10/2015,,,,,,,,,,,,,
 B1257,3357,23/06/2016,Airvolution Energy,J2a,Wind Onshore,,,4.70,,,,,,2.35,2,,,Abandoned,Abandoned,,,east of the M90 at Junction 2a,Fife,Scotland,Scotland,,314375,687820,Fife Council,14/00316/EIA,,,,,,31/01/2014,,,,,,,,,,,,,,
-01018W4,3358,09/01/2015,ECONET LTD,Blood Hill Wind Farm,Wind Onshore,,,2.30,,,,,,0.15,10,,,Decommissioned,Decommissioned,,,"Blood Hill nr. Coronation Farm, Somerton, Great Yarmouth, Norfolk",Norfolk,Eastern,England,,646900,318800,Great Yarmouth Borough Council,,,,,,,17/03/1998,,06/08/1999,,,,,,,,,,,24/07/2000,
+01018W4,3358,09/01/2015,ECONET LTD,Blood Hill Wind Farm,Wind Onshore,,,2.30,,,,,,0.15,10,,,Decommissioned,Decommissioned,,,"Blood Hill nr. Coronation Farm
+, Somerton
+, Great Yarmouth
+, Norfolk",Norfolk,Eastern,England,,646900,318800,Great Yarmouth Borough Council,,,,,,,17/03/1998,,06/08/1999,,,,,,,,,,,24/07/2000,
 C1265,3359,12/07/2017,Orton Park Wind Energy,Orton Park Farm,Wind Onshore,,,1.60,,,,,,0.80,2,,,Operational,Operational,,,"Orton Park Farm, Orton Park, Carlisle",Cumbria,North West,England,CA5 6JU,335490,553153,Carlisle City Council,13/0323,,,,,,25/04/2013,,,,,,,19/07/2013,,,,,15/06/2016,15/06/2017,
 C1509,3361,23/02/2017,Private Developer,PROMISED LAND FARM,Wind Onshore,,,1.00,,,,,,0.50,2,,,Operational,Operational,,,"PROMISED LAND FARM, CRANK ROAD, KINGS MOSS, ST HELENS, LANCASHIRE, WA11 8RW",Merseyside,North West,England,,351169,401881,St Helens Council,P/2013/0373,,,,,,15/05/2013,,,,,,,15/10/2013,,,,,22/09/2014,22/10/2014,
 C1682,3362,05/12/2014,Ventus Renewables Ltd,Ardlawhill Wood Wind Turbines ,Wind Onshore,,,1.00,,,,,,0.50,2,,,Planning Permission Refused,Application Refused,,3424,"Land at
@@ -932,7 +1023,9 @@ C2765,3371,14/02/2023,Scottish & Southern Energy ,Aberarder Wind Farm,Wind Onsho
 B0714,3372,29/10/2015,Renewable Energy Systems (RES),Barville Farm Wind Turbine,Wind Onshore,,,1.50,,,,,,1.50,1,,,Appeal Refused,Application Refused,,,Tilmanstone,Kent,South East,England,,630120,149980,Dover District Council,13/00914,APP/X2220/W/14/3000041,,,,,26/10/2013,,15/08/2014,01/10/2014,,12/10/2015,,,,,,,,,
 C2732,3373,15/01/2020,Wind Harvest,Beinn Mheadhonach,Wind Onshore,,,4.00,,,,,,1.00,4,100.00,,Planning Permission Expired,Planning Permission Expired,,,"Land 1600M NE Of Sumardale Cro, Struan, Isle Of Skye,",Highland,Scotland,Scotland,IV56 8FY,139317,837466,Highland Council,18/03214/FUL,,,,,,10/07/2018,,,,,,,20/08/2019,,,,20/08/2022,,,
 C2664,3374,05/12/2014,Dykehead Renewables Ltd,Dykehead Farm wind turbine 3,Wind Onshore,,,2.30,,,,,,2.30,1,,,Planning Application Withdrawn,Application Withdrawn,,,Dykehead Farm Chapelton ML10 6SL,Strathclyde,Scotland,Scotland,,266054,647976,South Lanarkshire Council,EK/14/0014,,,,,,23/01/2014,01/04/2014,,,,,,,,,,,,,
-B1277,3375,30/11/2017,Scottish and Southern Energy (SSE),Hadyard Hill extension,Wind Onshore,,,88.00,,,,,,4.00,22,127.00,,Planning Application Withdrawn,Application Withdrawn,,,"Hadyard Hill, east of Girvan, South Ayrshire",Strathclyde,Scotland,Scotland,,227000,599000,Scottish Government (S36),EC00003118,,,,,,22/04/2015,21/11/2017,,,,,,,,,,,,,
+B1277,3375,30/11/2017,Scottish and Southern Energy (SSE),Hadyard Hill extension,Wind Onshore,,,88.00,,,,,,4.00,22,127.00,,Planning Application Withdrawn,Application Withdrawn,,,"Hadyard Hill
+, east of Girvan
+, South Ayrshire",Strathclyde,Scotland,Scotland,,227000,599000,Scottish Government (S36),EC00003118,,,,,,22/04/2015,21/11/2017,,,,,,,,,,,,,
 C2740,3378,05/01/2015,Princes Gate Spring Water,Princes Gate Spring Water,Wind Onshore,,,1.60,,,,,,0.80,2,,,Operational,Operational,,,"Princes Gate Spring Water, Ludchurch, Narberth, ",Dyfed,Wales,Wales,SA67 8JD,214885,211552,Pembrokeshire County Council,11/0712/PA,,,,,,18/11/2011,,,,,,,09/07/2013,,,,,,03/09/2014,
 B1267,3380,21/03/2014,North British Windpower Ltd,Phase 1 Bettyhill Wind Farm,Wind Onshore,,,5.00,,,,,,2.50,2,,,Operational,Operational,,,"Skelpick Estate, Thurso KW14 7TA",Highland,Scotland,Scotland,,272326,962920,Highland Council,07/00448/FULSU,,,,,,09/11/2007,,,,,,,31/08/2011,,,,,,04/06/2013,
 C2313,3381,29/10/2015,Renewable Energy Systems (RES),Thornton Lane,Wind Onshore,,,1.50,,,,,,1.50,1,,,Appeal Refused,Application Refused,,,"Land at Thornton Lane, Eastry, Sandwich",Kent,South East,England,CT13 0ET,629616,153332,Dover District Council,13/00927,APP/X2220/W/14/3000040,,,,,02/11/2013,,10/06/2014,01/10/2014,,12/10/2015,,,,,,,,,
@@ -943,7 +1036,10 @@ B0801,3387,28/05/2020,Scottish Power Renewables,Beinn an Tuirc Windfarm Phase 3,
 C0716,3388,30/04/2018,North British Wind / Invenergy,Balunton Wind Farm,Wind Onshore,,,27.00,,,,,,3.00,9,125.00,,Planning Application Withdrawn,Application Withdrawn,,,"Balunton Wind Farm, Glentrool, Newton Stewart",Dumfries and Galloway,Scotland,Scotland,DG8 6,234665,580679,Dumfries and Galloway Council,15/P/1/0189,,,,,,12/08/2015,18/04/2018,,,,,,,,,,,,,
 07057W4,3390,11/04/2011,Lambrigg Windfarm Ltd,Lambrigg Wind Farm,Wind Onshore,,,6.50,,,,,,1.30,5,,,Operational,Operational,,,"Lambrigg Fell, Off A684, Roan Edge
 Cumbria",Cumbria,North West,England,,358800,493600,South Lakeland District Council,5/98/1478,,,,,,23/06/1998,,,,,,,02/07/1999,,,,,,22/09/2001,
-07130W3,3391,06/12/2019,Cannock Renewables,Askam,Wind Onshore,,,4.60,,,,,,0.66,7,,,Operational,Operational,,,"Land North East of Far Old Park Farm, Ireleth, Askam-in-Furness",Cumbria,North West,England,,323000,477100,Barrow in Furness Borough Council,,,,,,,13/03/1995,,06/10/1997,,,,,,,,,,,13/07/1999,
+07130W3,3391,06/12/2019,Cannock Renewables,Askam,Wind Onshore,,,4.60,,,,,,0.66,7,,,Operational,Operational,,,"Land North East of Far Old Park Farm
+, Ireleth
+, Askam-in-Furness
+",Cumbria,North West,England,,323000,477100,Barrow in Furness Borough Council,,,,,,,13/03/1995,,06/10/1997,,,,,,,,,,,13/07/1999,
 11029W3,3392,19/12/2003,Natural Power,Bears Down Wind Farm,Wind Onshore,,,9.80,,,,,,0.60,16,,,Operational,Operational,,,"Bears Down Reservoir
 St Colomb
 Cornwall",Cornwall,South West,England,,190360,67560,Cornwall Council,,,,,,,15/05/2000,,,,,,,27/06/2000,,,,,,31/08/2001,
@@ -1005,7 +1101,8 @@ N00094W,3449,05/12/2008,Ecotricity,Fen Farm,Wind Onshore,,,16.00,,,,,,0.80,20,,,
 N00111W,3450,04/06/2018,Gresham House,Darracott Moor,Wind Onshore,,,2.60,,,,,,0.85,3,,,Operational,Operational,,,"Torrington, Devon, EX38",Devon,South West,England,,223500,117500,North Devon District Council,1/1345/2002/24,APP-W1145-A-03-1119641,,,,,18/07/2002,,25/02/2003,,,,13/05/2004,13/05/2004,,,,,01/10/2006,06/05/2011,
 S0009W1,3451,23/08/2004,Eurus Energy / Ecogen,Largie Wind Farm,Wind Onshore,,,14.90,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Tangy Farm, Kilkenzie
 Argyll and Bute",Strathclyde,Scotland,Scotland,,173000,639000,Argyll and Bute Council,94/00772/DET,,,,,,24/08/1994,,17/11/1998,,,,,,,,,,,,
-N00389W,3453,04/02/2009,A7 Energy / Green Energy,Lochhead Farm,Wind Onshore,,,6.00,,,,,,2.00,3,,,Operational,Operational,,,"Land at Lochhead Farm, Stonehouse",Strathclyde,Scotland,Scotland,,275500,646500,South Lanarkshire Council,HM/05/0147,,,,,,01/04/2005,,,,,,,01/05/2006,,,,,,01/07/2009,
+N00389W,3453,04/02/2009,A7 Energy / Green Energy,Lochhead Farm,Wind Onshore,,,6.00,,,,,,2.00,3,,,Operational,Operational,,,"Land at Lochhead Farm
+, Stonehouse",Strathclyde,Scotland,Scotland,,275500,646500,South Lanarkshire Council,HM/05/0147,,,,,,01/04/2005,,,,,,,01/05/2006,,,,,,01/07/2009,
 EN00579,3454,01/03/2011,Banks Renewables,Moor House Wind Farm,Wind Onshore,,,25.00,,,,,,2.50,10,,,Revised,Revised,4642,,"Moor House Farm, East of Darlington",County Durham,North East,England,,431700,525000,Darlington Borough Council,09/00741/FUL,,,,,,10/10/2009,,12/11/2010,,,,,,,,,,,,
 EN00518,3455,07/12/2010,Banks Development,Pontefract Wind Farm,Wind Onshore,,,12.00,,,,,,2.00,6,,,Appeal Refused,Application Refused,,,"Went Edge, South Pontefract",West Yorkshire,Yorkshire and Humber,England,,445500,421500,Wakefield Council,07/01338/FUL,09/00024/REF,,,,,03/05/2007,,01/02/2008,,,22/06/2010,,,,,,,,,
 EN00092,3456,08/04/2010,Banks Group,Steadings Wind Farm,Wind Onshore,,,66.00,,,,,,2.00,21,,,Planning Permission Refused,Application Refused,,,"Steadings, nr Kirkwhelpington, Northumberland",Northumberland,North East,England,,399500,584500,DECC (S36),06/0075/CPC,,,,,,12/04/2006,,25/03/2010,,,,,,,,,,,,
@@ -1014,9 +1111,12 @@ N00543W,3458,06/04/2011,Crimp Power Ltd (West Coast Energy),Crimp Wind Farm,Wind
 A0527,3462,04/04/2012,BT,Wingates Moor Wind Farm,Wind Onshore,,,6.00,,,,,,2.00,3,,,Planning Permission Refused,Application Refused,,,Wingates Moor Longframlington Morpeth Northumberland NE65 8RP,Northumberland,North East,England,,413034,597920,Northumberland County Council,11/00158/RENEIA,,,,,,17/03/2011,,22/03/2012,,,,,,,,,,,,
 AA282,3463,24/10/2011,BT,Threapland Lees,Wind Onshore,,,12.00,,,,,,3.00,4,,,Planning Application Withdrawn,Application Withdrawn,,,"Bothel, Cumbria",Cumbria,North West,England,,316144,539113,Allerdale Borough Council,2/2009/0788,,,,,,30/10/2009,07/09/2010,,,,,,,,,,,,,
 06011W5,3466,14/08/2010,Border Wind,Hedley Hope,Wind Onshore,,,2.40,,,,,,0.80,3,,,Operational,Operational,,,"High Hedley Farm, Tow Law, Bishop Auckland, County Durham",County Durham,North East,England,,415700,541000,Durham County Council,99/429,,,,,,07/06/1999,,,,,,,23/05/2001,,,,,,30/12/2001,
-N00047W,3467,18/01/2012,Border Wind / Scottish and Southern (SSE),Tangy Wind Farm/Tangy 1,Wind Onshore,,,12.80,,,,,,0.85,15,,,Operational,Operational,,,"Kilkenzie, Cambeltown",Strathclyde,Scotland,Scotland,,168500,628500,Argyll and Bute Council,94/0739/DET,,,,,,12/06/2001,,,,,,,15/02/2002,,,,,,26/12/2002,
+N00047W,3467,18/01/2012,Border Wind / Scottish and Southern (SSE),Tangy Wind Farm/Tangy 1,Wind Onshore,,,12.80,,,,,,0.85,15,,,Operational,Operational,,,"Kilkenzie
+, Cambeltown",Strathclyde,Scotland,Scotland,,168500,628500,Argyll and Bute Council,94/0739/DET,,,,,,12/06/2001,,,,,,,15/02/2002,,,,,,26/12/2002,
 A0349,3468,02/03/2012,British Telecom,Great Shelfin Farm,Wind Onshore,,,6.90,,,,,,2.30,3,,,Planning Application Withdrawn,Application Withdrawn,,,LAND AT GREAT SHELFIN FARM MULLACOTT CROSS ILFRACOMBE DEVON EX34 8ND,Devon,South West,England,,252221,144377,North Devon District Council,49825,,,,,,12/03/2010,24/01/2012,,,,,,,,,,,,,
-N00151W,3470,23/11/2004,Community Power Ltd,Ton Marw Farm,Wind Onshore,,,7.30,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Mynydd, Ton Marw Farm, Margam, Port Talbot",West Glamorgan,Wales,Wales,,273670,190300,Neath Port Talbot Council,02/0538,,,,,,12/08/2002,,04/10/2002,,,,,,,,,,,,
+N00151W,3470,23/11/2004,Community Power Ltd,Ton Marw Farm,Wind Onshore,,,7.30,,,,,,,,,,Planning Permission Refused,Application Refused,,,"Mynydd,
+ Ton Marw Farm, Margam
+, Port Talbot",West Glamorgan,Wales,Wales,,273670,190300,Neath Port Talbot Council,02/0538,,,,,,12/08/2002,,04/10/2002,,,,,,,,,,,,
 B0578,3471,10/07/2013,Community Windpower,Claughton Moor ,Wind Onshore,,,23.00,,,,,,2.30,10,,,Planning Permission Refused,Application Refused,,3800,"Farleton, Old Road, Claughton, ",Lancashire,North West,England,,358326,463852,Lancaster City Council,13/00128/FUL,,,,,,06/02/2013,,25/06/2013,,,,,,,,,,,,
 B0502,3472,30/01/2014,Community Windpower,Davidstow Wind Farm ,Wind Onshore,,,48.00,,,,,,3.00,16,,,Planning Application Withdrawn,Application Withdrawn,,2649,Davidstow Trewinnow Farm Trevivian Davidstow,Cornwall,South West,England,,214500,84500,Cornwall Council,PA13/03743,,,,,,19/08/2013,29/01/2014,,,,,,,,,,,,,
 N00415W,3473,30/03/2011,Community Windpower,Leapmoor Forest,Wind Onshore,,,30.00,,,,,,3.00,10,,,Planning Application Withdrawn,Application Withdrawn,,,"Leapmoor Forest
@@ -1036,7 +1136,10 @@ EN00639,3481,07/12/2009,Cornwall Light and Power,Cheverton Down,Wind Onshore,,,3
 B0019,3484,27/09/2012,Coronation Power,Truthan Barton Wind Farm,Wind Onshore,,,12.50,,,,,,2.25,5,,,Appeal Refused,Application Refused,,3485,"Truthan Barton, St Erme, Truro,",Cornwall,South West,England,TR4 9BB,183722,51211,Cornwall Council,PA11/03197,11/00188/REF,,,,,03/05/2011,,28/09/2011,,,23/08/2012,,,,,,,,,
 B0176,3485,24/10/2011,Coronation Power,Truthan Barton Wind Farm,Wind Onshore,,,17.50,,,,,,2.50,7,,,Revised,Revised,3484,,"Truthan Barton, St Erme, Truro, ",Cornwall,South West,England,TR4 9BB,183722,51211,Cornwall Council,C1/EA30/0377/09/M,,,,,,10/03/2009,,20/01/2011,,,,,,,,,,,,
 N00538W,3487,10/05/2016,CRE Energy/ Scottish Power,Green Knowes,Wind Onshore,,,27.00,,,,,,1.50,18,,,Operational,Operational,,,"Land at Green Knowes, by Glendevon",Tayside,Scotland,Scotland,,296850,707550,Perth and Kinross Council,04/01651/FUL,,,,,,04/08/2004,,15/06/2006,,,,13/06/2008,13/06/2008,,,,,14/06/2008,29/09/2008,
-N00557W,3488,09/06/2010,CRE Energy/ Scottish Power,Green Knowes Extension ,Wind Onshore,,,31.50,,,,,,1.75,18,,,Revised,Revised,4810,,"Land At Green Knowes By Glendevon, Dollar, Clackmannanshire",Tayside,Scotland,Scotland,,296850,707550,Perth and Kinross Council,05/01061/FUL,,,,,,31/05/2005,,06/12/2005,,22/08/2006,,,,,,,,,,
+N00557W,3488,09/06/2010,CRE Energy/ Scottish Power,Green Knowes Extension ,Wind Onshore,,,31.50,,,,,,1.75,18,,,Revised,Revised,4810,,"Land At Green Knowes By
+ Glendevon
+, Dollar
+, Clackmannanshire",Tayside,Scotland,Scotland,,296850,707550,Perth and Kinross Council,05/01061/FUL,,,,,,31/05/2005,,06/12/2005,,22/08/2006,,,,,,,,,,
 N00055W,3489,20/05/2010,CRE Energy/ Scottish Power,Whitelee,Wind Onshore,,,322.00,,,,,,2.30,140,,,Operational,Operational,,,"Eaglesham Moor, Whitelee Forest,  Fenwick Moor, East Kilbride, South of Glasgow",Strathclyde,Scotland,Scotland,,256800,645435,Scottish Government (S36),2002/0001/EB,,,,,,23/01/2002,,,,,,,01/04/2006,,,,,01/12/2006,14/12/2007,
 07022W4,3490,30/10/2011,Cumbria Wind Farms,Hilltop Wind Farm,Wind Onshore,,,8.80,,,,,,,,,,Planning Permission Refused,Application Refused,,,Hilltop Farm Brocklebank Westward Wigton Cumbria,Cumbria,North West,England,,329500,541500,Allerdale Borough Council,,,,,,,22/06/1999,,05/07/2000,,,,,,,,,,,,
 07035W5,3491,13/07/2006,Cumbria Wind Farms,Great Orton,Wind Onshore,,,4.00,,,,,,0.66,6,,,Operational,Operational,,,"Near Carlisle
@@ -1048,7 +1151,9 @@ N00004W,3492,07/09/2009,Cumbria Wind Farms,Winscales Phase I and II,Wind Onshore
 06012W5,3496,08/05/2009,E.ON UK,Hare Hill,Wind Onshore,,,1.30,,,,,,1.30,1,,,Operational,Operational,,,"Harehill Farm, Haswell Plough, County Durham",County Durham,North East,England,,437735,540895,Durham County Council,,,,,,,11/02/2000,,,,,,,25/05/2000,,,,,,01/07/2004,
 A0235,3497,07/04/2011,E.ON UK,Corriemoillie Forest,Wind Onshore,,,47.50,,,,,,2.50,19,,,Revised,Revised,4120,,"Gorston, Garve, Ross-shire. ",Highland,Scotland,Scotland,,232885,863033,Highland Council,09/00693/FULRC,,,,,,02/12/2009,05/10/2010,,,,,,,,,,,,,
 A0499,3498,06/04/2011,E.ON UK,Ancroft Northmoor Wind Farm,Wind Onshore,,,16.00,,,,,,2.00,8,,,Planning Application Withdrawn,Application Withdrawn,,,Southeast Of Ancroft Northmoor And Southwest Of Allerdean Grange Berwick-upon-Tweed Northumberland,Northumberland,North East,England,,397453,645210,Northumberland County Council,C/09/00063/CCMEIA,,,,,,,06/04/2011,,,,,,,,,,,,,
-N00098W,3499,10/12/2003,E.ON UK,White Hill,Wind Onshore,,,12.00,,,,,,,,,,Planning Permission Refused,Application Refused,,,"West of Crown Point Car Park, Crown Point Road, Burnley",Lancashire,North West,England,,384000,428800,Burnley Borough Council,12/02/656,APP/Z2315/A/03/1114592,,,,,11/12/2002,,18/03/2003,,,,,,,,,,,,
+N00098W,3499,10/12/2003,E.ON UK,White Hill,Wind Onshore,,,12.00,,,,,,,,,,Planning Permission Refused,Application Refused,,,"West of Crown Point Car Park
+, Crown Point Road
+, Burnley",Lancashire,North West,England,,384000,428800,Burnley Borough Council,12/02/656,APP/Z2315/A/03/1114592,,,,,11/12/2002,,18/03/2003,,,,,,,,,,,,
 AA995,3502,22/12/2021,E.ON Renewables,Enoch Hill,Wind Onshore,,,52.80,No,,,,,3.40,16,130.00,,Appeal Granted,Awaiting Construction,,,around 14km south west of New Cumnock,Strathclyde,Scotland,Scotland,,258401,609144,Scottish Government (S36),EC00005256,WIN-190-5,,,,,28/09/2015,,,21/11/2017,,,13/09/2019,13/09/2019,,,,13/09/2025,,,
 AA996,3503,27/10/2022,E.ON Renewables / Red Rock Power Limited,Benbrack Wind Farm,Wind Onshore,,,72.00,,,,,,4.00,18,149.90,,Under Construction,Under Construction,,,Near Carsphairn and Dalmellington,East Ayrshire,Scotland,Scotland,,253199,599440,Scottish Government (S36),EC00002082,WIN-170-2002,,,,,20/11/2014,,,19/11/2015,,,15/09/2017,15/09/2017,,,,05/11/2024,01/08/2022,,
 A0067,3504,24/06/2011,E.ON UK,Great Eppleton Farm Repowering,Wind Onshore,,,8.20,,,,,,2.00,4,,,Operational,Operational,,,"Hetton, Houghton-le-Spring, Tyne & Wear, DH5 9NL",Tyne and Wear,North East,England,,436900,548200,Sunderland City Council,07/00086/FUL,,,,,,01/03/2007,,,,,,,10/08/2007,,,,,01/10/2009,01/03/2010,
@@ -1121,12 +1226,18 @@ C1032,3550,28/02/2017,PNE Wind UK Ltd (Brookfield),Shennanton Wind Farm,Wind Ons
 IF1345,3551,18/09/2013,PNE Wind UK Ltd (Brookfield),Hill of Braco,Wind Onshore,,,20.00,,,,,,2.50,8,,,Planning Application Withdrawn,Application Withdrawn,,,"Hatton
  Peterhead
  AB42 0RR",Grampian,Scotland,Scotland,,403893,840984,Aberdeenshire Council,APP/2013/0505,,,,,,28/02/2013,27/08/2013,,,,,,,,,,,,,
-04037W3,3552,08/12/2003,Powergen,Rheidol Wind Farm,Wind Onshore,,,2.40,,,,,,0.30,8,,,Operational,Operational,,,"Rheidol Wind Farm, Banc Bwa Drain, Goginan, Aberystwyth",Dyfed,Wales,Wales,SW23 3PQ,272400,280500,Ceredigion County Council,,,,,,,01/08/1991,,,,,,,06/08/1996,,,,,,06/02/1997,
+04037W3,3552,08/12/2003,Powergen,Rheidol Wind Farm,Wind Onshore,,,2.40,,,,,,0.30,8,,,Operational,Operational,,,"Rheidol Wind Farm
+, Banc Bwa Drain
+, Goginan
+, Aberystwyth
+",Dyfed,Wales,Wales,SW23 3PQ,272400,280500,Ceredigion County Council,,,,,,,01/08/1991,,,,,,,06/08/1996,,,,,,06/02/1997,
 N00423W,3553,11/06/2009,Powergen /E.ON-UK,Lamonby Wind Farm,Wind Onshore,,,27.00,,,,,,3.00,9,,,Planning Application Withdrawn,Application Withdrawn,,,"Lamonby, Penrith, Cumbria",Cumbria,North West,England,,340500,535500,Eden District Council,05/0758,,,,,,,11/06/2009,,,,,,,,,,,,,
 S0003W2,3554,05/08/2019,Powergen Renewables,Deucheran Hill,Wind Onshore,,,15.80,,,,,,1.75,9,,,Operational,Operational,,,"Deucheran Hill
 Nr. Muasdale",Strathclyde,Scotland,Scotland,,177000,643000,Argyll and Bute Council,99/00925/DET,,,,,,01/06/1999,,,,,,,22/05/2001,,,,,,30/11/2001,
-04043W5,3556,01/04/2005,Renewable Development Company Ltd,Bryn Du,Wind Onshore,,,16.40,,,,,,0.42,39,,,Operational,Operational,,,"Bryn Du Hills, South Of A44 At Pont Rydgaled, Powys, (LLangurig area)",Powys,Wales,Wales,,284000,281000,Powys County Council,,,,,,,24/07/2000,,,,,,,10/12/2001,,,,,,01/04/2005,
-07089W5,3560,29/06/2011,Renewable Development Company Ltd,Corbie Shank,Wind Onshore,,,150.00,,,,,,,,,,Planning Application Withdrawn,Application Withdrawn,,,"Craik Forest, West Of A7 North Of Langholm",Dumfries and Galloway,Scotland,Scotland,,334520,595639,Scottish Government (S36),,,,,,,,29/06/2011,,,,,,,,,,,,,
+04043W5,3556,01/04/2005,Renewable Development Company Ltd,Bryn Du,Wind Onshore,,,16.40,,,,,,0.42,39,,,Operational,Operational,,,"Bryn Du Hills, South Of A44 At Pont Rydgaled, Powys
+, (LLangurig area)",Powys,Wales,Wales,,284000,281000,Powys County Council,,,,,,,24/07/2000,,,,,,,10/12/2001,,,,,,01/04/2005,
+07089W5,3560,29/06/2011,Renewable Development Company Ltd,Corbie Shank,Wind Onshore,,,150.00,,,,,,,,,,Planning Application Withdrawn,Application Withdrawn,,,"Craik Forest
+, West Of A7 North Of Langholm",Dumfries and Galloway,Scotland,Scotland,,334520,595639,Scottish Government (S36),,,,,,,,29/06/2011,,,,,,,,,,,,,
 N00403W,3561,04/01/2010,Renewable Development Company Ltd,Mellock Hill Wind Farm,Wind Onshore,,,48.00,,,,,,2.00,24,,,Planning Permission Refused,Application Refused,,,"Ochill Hills, nr. Crook of Devon
 Perthshire",Tayside,Scotland,Scotland,,302500,706500,Perth and Kinross Council,04/02000,,,,,,01/10/2004,,20/06/2005,,,,,,,,,,,,
 N00427W,3562,15/05/2006,Renewable Development Company Ltd,Mellock Hill Wind Farm II,Wind Onshore,,,35.00,,,,,,2.00,14,,,Planning Application Withdrawn,Application Withdrawn,,,"Ochill Hills, nr. Crook of Devon
@@ -1170,7 +1281,9 @@ EN00353,3598,10/05/2016,West Coast Energy /Falck Renewables,Millennium Extension
 on The Achlain and Invergarry amd Aberchalder Estates
 Glengarry Invergarry
 Inverness-Shire",Highland,Scotland,Scotland,,225200,810300,Highland Council,,,,,,,10/03/2007,,,,,,,12/01/2008,,,,,13/01/2008,01/12/2008,
-N00125W,3599,08/10/2013,Wind Developments,Carricknabrattoge,Wind Onshore,,,12.10,,,,,,1.10,11,,,Planning Application Withdrawn,Application Withdrawn,,,"Carrowmaculla, Eshmeen & Tully, Lisnaskea, Fermanagh",Co. Fermanagh,Northern Ireland,Northern Ireland,,33764,521579,Northern Ireland Planning Service,L/2002/1183/F,,,,,,,08/10/2013,,,,,,,,,,,,,
+N00125W,3599,08/10/2013,Wind Developments,Carricknabrattoge,Wind Onshore,,,12.10,,,,,,1.10,11,,,Planning Application Withdrawn,Application Withdrawn,,,"Carrowmaculla,
+ Eshmeen & Tully, Lisnaskea
+, Fermanagh",Co. Fermanagh,Northern Ireland,Northern Ireland,,33764,521579,Northern Ireland Planning Service,L/2002/1183/F,,,,,,,08/10/2013,,,,,,,,,,,,,
 B1042,3600,27/09/2018,Wind NI Ltd,Ballykeel Wind Farm,Wind Onshore,,,16.10,,,,,,2.30,7,,,Planning Permission Granted,Awaiting Construction,,,Larne,Co. Antrim,Northern Ireland,Northern Ireland,,154000,557000,Northern Ireland Planning Service,F/2013/0244/F,,,,29/06/2017,,19/12/2013,,,,,,,13/12/2016,,,,13/12/2021,,,
 AA033,3601,09/08/2011,Wind Prospect,King's Street,Wind Onshore,,,12.00,,,,,,2.00,6,,,Planning Permission Refused,Application Refused,,,"King's Street, Brineton, Staffordshire.",Staffordshire,West Midlands,England,,381531,315066,South Staffordshire Council,10/00963/FUL,,,,,,13/12/2010,,06/04/2011,,,,,,,,,,,,
 N00333W,3602,18/12/2014,EDF/China General Nuclear Power Corporation,Rusholme Wind Farm,Wind Onshore,,,24.00,,,,,,2.00,12,,,Operational,Operational,,,"Newland Wind Farm, Land at Pease Farm, Rushmere Grange, Newland",North Yorkshire,Yorkshire and Humber,England,,469500,426500,Selby District Council,8/26/62/PA,,,,,,02/07/2004,,,,,,,16/10/2006,,,,,01/08/2010,04/10/2010,
@@ -1504,8 +1617,11 @@ Severn Road
 Avonmouth
 Bristol",Avon,South West,England,,353360,182375,Bristol City Council,08/03724/FB,,,,,,29/08/2008,,,,,,,14/01/2009,,,,,30/04/2013,30/09/2013,
 EN00089,3928,23/08/2012,E.ON Renewables,Tween Bridge Windfarm,Wind Onshore,,,44.00,,,,,,2.00,22,,,Operational,Operational,,,"Tween Bridge, Thorne, Doncaster, South Yorks",South Yorkshire,Yorkshire and Humber,England,DN8 5,470500,414500,DECC (S36),04/0314/P/CIR2,,,,,,23/01/2004,,,,,,,28/02/2008,,,,,01/05/2011,27/02/2012,
-EN00094,3929,16/08/2016,Melness Crofters Estate,Melness,Wind Onshore,,,2.60,,,,,,0.85,3,,,Abandoned,Abandoned,,,"Near Melness, Sutherland",Highland,Scotland,Scotland,,256500,962000,Highland Council,06/00271/FULSU,,,,,,12/07/2006,,,,,,,22/10/2008,,,,,,,
-EN00096,3930,24/02/2016,North British Windpower,Druim Fada,Wind Onshore,,,10.00,,,,,,2.50,4,,,Planning Permission Expired,Planning Permission Expired,,,"Loch Eil, Fort William, Lochaber",Highland,Scotland,Scotland,,207500,780500,Highland Council,09/00074/FULLO,,,,,,01/02/2009,,,,,,,09/08/2012,,,,09/08/2015,,,
+EN00094,3929,16/08/2016,Melness Crofters Estate,Melness,Wind Onshore,,,2.60,,,,,,0.85,3,,,Abandoned,Abandoned,,,"Near Melness
+, Sutherland",Highland,Scotland,Scotland,,256500,962000,Highland Council,06/00271/FULSU,,,,,,12/07/2006,,,,,,,22/10/2008,,,,,,,
+EN00096,3930,24/02/2016,North British Windpower,Druim Fada,Wind Onshore,,,10.00,,,,,,2.50,4,,,Planning Permission Expired,Planning Permission Expired,,,"Loch Eil
+, Fort William
+, Lochaber",Highland,Scotland,Scotland,,207500,780500,Highland Council,09/00074/FULLO,,,,,,01/02/2009,,,,,,,09/08/2012,,,,09/08/2015,,,
 EN00114,3931,04/06/2018,Gresham House,Mynydd Portref,Wind Onshore,,,9.40,,,,,,0.85,11,,,Operational,Operational,,,"N of Brynna, E of existing Taff Ely Wind Farm",Mid Glamorgan,Wales,Wales,,298897,185178,Rhondda Cynon Taff County Borough Council,06/1325,,,,,,26/06/2006,,,,,,,01/07/2008,,,,,,26/03/2012,
 EN00117,3932,05/06/2013,Pennant Walters,Fforch Nest Wind Farm pt2,Wind Onshore,,,17.50,,,,,,2.50,7,,,Operational,Operational,,,"Mynydd Maesteg and Mynydd Pwllyrhebog, Ogmore and Rhondda Valleys",Mid Glamorgan,Wales,Wales,,296500,190800,Rhondda Cynon Taff County Borough Council,06/1842/10,,,,,,31/03/2006,,,,,,,04/05/2011,,,,,30/10/2011,24/05/2013,
 EN00125,3933,04/01/2017,Energia Renewables,Gortfinbar,Wind Onshore,,,15.00,,,,,,2.50,6,,,Operational,Operational,,,"Sixmilecross/Carrickmore, Omagh",Co. Tyrone,Northern Ireland,Northern Ireland,,75490,528123,Northern Ireland Planning Service,K/2006/1089/F,,,,,,03/04/2006,,,,,,,07/05/2009,,,,,01/09/2015,22/12/2016,
@@ -1543,14 +1659,19 @@ Hampole
 Doncaster",South Yorkshire,Yorkshire and Humber,England,,449430,409145,Doncaster Metropolitan Borough Council,08/02695/FULA,,,,,,09/09/2008,,,,,,,17/12/2009,,,,,17/06/2013,31/03/2014,
 EN00363,3958,04/04/2013,Ventient (formerly Infinis),Blackstone Edge,Wind Onshore,,,7.50,,,,,,2.50,3,,,Operational,Operational,,,"Blackstone Edge, Penistone",South Yorkshire,Yorkshire and Humber,England,,419565,405226,Barnsley Metropolitan Borough Council,2008/0171,,,,,,01/11/2006,,,,,,,26/05/2009,,,,,01/07/2012,01/03/2013,
 EN00397,3959,03/05/2012,Airtricity Developments,Muirpark,Wind Onshore,,,33.00,,,,,,3.00,11,,,Planning Permission Refused,Application Refused,,,"Muirpark Farm, Stirling",Stirling,Scotland,Scotland,,273900,687800,Stirling Council,09/00170/FULL,,,,,,01/03/2009,,03/05/2012,,,,,,,,,,,,
-EN00401,3960,01/05/2013,Falck Renewables/RDC,Nigg Hill,Wind Onshore,,,10.00,,,,,,2.00,5,,,Planning Permission Refused,Application Refused,,,"Nigg Hill , Nigg, Rosshire, Highlands",Highland,Scotland,Scotland,,283320,872675,Highland Council,08/00066/FULRC,,,,,,24/01/2008,,28/01/2013,,,,,,,,,,,,
+EN00401,3960,01/05/2013,Falck Renewables/RDC,Nigg Hill,Wind Onshore,,,10.00,,,,,,2.00,5,,,Planning Permission Refused,Application Refused,,,"Nigg Hill
+ , Nigg
+, Rosshire
+, Highlands",Highland,Scotland,Scotland,,283320,872675,Highland Council,08/00066/FULRC,,,,,,24/01/2008,,28/01/2013,,,,,,,,,,,,
 EN00410,3961,04/12/2016,Energia Renewables,Glenbuck,Wind Onshore,,,9.20,,,,,,2.30,4,,,Operational,Operational,,,"Glenbuck, Dunloy",Co. Antrim,Northern Ireland,Northern Ireland,,118000,577300,Northern Ireland Planning Service,D/2005/0628/F,,,,,,06/06/2005,,,,,,,22/04/2007,,,,,26/05/2016,22/12/2016,
 EN00411,3962,15/12/2017,Energia ,Glenbuck II,Wind Onshore,,,6.90,,,,,,3.00,5,,,Operational,Operational,,,Glenbuck,Co. Antrim,Northern Ireland,Northern Ireland,,118000,577300,Northern Ireland Planning Service,D/2006/0599/F,,,,,,01/11/2006,,,,,,,27/06/2011,,,,,01/04/2016,01/03/2017,
 EN00413,3963,29/03/2012,Banks Renewables,Marr Windfarm,Wind Onshore,,,8.00,,,,,,2.00,4,,,Operational,Operational,,,"Marr, South Yorkshire",South Yorkshire,Yorkshire and Humber,England,,450491,404311,Doncaster Metropolitan Borough Council,07/00445/FULA,,,,,,20/12/2006,,,,,,,17/07/2007,,,,,01/03/2011,18/01/2012,
 EN00414,3964,26/11/2013,TNEI Services Ltd,Nissan Motors Plant Extn,Wind Onshore,,,2.00,,,,,,0.60,3,,,Operational,Operational,,,"Nissan Motors Plant, Sunderland, Tyne and Wear",Tyne and Wear,North East,England,,433385,557810,Sunderland City Council,07/02462/FUL,,,,,,01/06/2007,,,,,,,31/07/2007,,,,,,01/04/2008,
 EN00420,3965,20/09/2012,Wind Power Renewables,Potash Farm,Wind Onshore,,,6.60,,,,,,3.30,2,,,Planning Permission Refused,Application Refused,,,"Land adjacent Potash Farm, Potash Lane, Wyverstone",Suffolk,Eastern,England,,602390,268485,Mid Suffolk District Council,1826/09,,,,,,21/07/2009,,20/10/2009,,,,,,,,,,,,
 EN00425,3966,04/10/2013,Bernard Matthews,Bernard Matthews Wind Farm,Wind Onshore,,,11.50,,,,,,2.30,5,,,Planning Application Withdrawn,Application Withdrawn,,,"Scalesbrook Lane, Holton, Halesworth, Suffolk, IP19 8NJ",Suffolk,Eastern,England,,640495,280140,Waveney District Council,DC/09/0491/FUL,,,,,,29/05/2009,17/02/2010,,,,,,,,,,,,,
-EN00436,3967,28/11/2011,Tegni Cymru,Aston Grange Farm,Wind Onshore,,,12.00,,,,,,3.00,4,,,Appeal Refused,Application Refused,,,"Aston Grange Farm, Acton Bridge, Cheshire",Cheshire,North West,England,,356320,377420,Cheshire West and Chester Council,05-1059-fum,V/07/00025/REF,,,,,20/06/2005,,11/10/2006,,,05/11/2008,,,,,,,,,
+EN00436,3967,28/11/2011,Tegni Cymru,Aston Grange Farm,Wind Onshore,,,12.00,,,,,,3.00,4,,,Appeal Refused,Application Refused,,,"Aston Grange Farm,
+ Acton Bridge
+, Cheshire",Cheshire,North West,England,,356320,377420,Cheshire West and Chester Council,05-1059-fum,V/07/00025/REF,,,,,20/06/2005,,11/10/2006,,,05/11/2008,,,,,,,,,
 EN00445,3968,09/05/2012,"Infinis, previously Broadview Energy",Hill of Fiddes,Wind Onshore,,,6.90,,,,,,2.30,3,,,Operational,Operational,,,"Hill of Fiddes
 Udny Station
 Cultercullen",Grampian,Scotland,Scotland,,393495,824485,Aberdeenshire Council,APP/2007/3578,,,,,,03/09/2007,,,,,,,01/04/2008,,,,,01/07/2009,20/02/2010,
@@ -1612,7 +1733,9 @@ N00075W,4008,25/11/2013,Longearth Ltd/ Farm Energy,Bu Farm,Wind Onshore,,,2.70,,
 N00107W,4009,08/10/2013,Scottish and Southern Energy (SSE),Drumderg,Wind Onshore,,,36.80,,,,,,2.30,16,,,Operational,Operational,,,"Drumderg Hill
 Near Alyth
 Perth",Tayside,Scotland,Scotland,,324500,748500,Perth and Kinross Council,03/01917/FUL,P/PPA/340/459,,,,,06/11/2003,,11/02/2005,,,,,,,,,,,09/11/2008,
-N00138W,4010,26/08/2005,Private Developer,Beech Farm,Wind Onshore,,,2.60,,,,,,1.30,2,,,Planning Permission Refused,Application Refused,,,"Beech Farm, Tavistock, West Devon",Devon,South West,England,,248500,74500,West Devon Borough Council,2934/2002/TAV,APP/Q1153/A/04/1170234,,,,,16/04/2002,,03/03/2003,,,,,,,,,,,,
+N00138W,4010,26/08/2005,Private Developer,Beech Farm,Wind Onshore,,,2.60,,,,,,1.30,2,,,Planning Permission Refused,Application Refused,,,"Beech Farm
+, Tavistock
+, West Devon",Devon,South West,England,,248500,74500,West Devon Borough Council,2934/2002/TAV,APP/Q1153/A/04/1170234,,,,,16/04/2002,,03/03/2003,,,,,,,,,,,,
 N00139W,4011,01/06/2018,Scottish and Southern Energy (SSE)/ Greencoat UK Wind ,Clyde Wind Farm,Wind Onshore,,,350.00,,,,,,2.30,152,,,Operational,Operational,,,"Clyde Wind farm, Lowther Hills, between Crawford and Nether Howecleuch,
 NW of Lockerbie",Strathclyde,Scotland,Scotland,,302500,617500,Scottish Government (S36),,,,,,,01/10/2004,,,,,,,21/07/2008,,,,,,01/10/2012,
 N00140W,4012,04/07/2012,Private Developer,Steadfold Lane,Wind Onshore,,,2.60,,,,,,1.30,2,,,Planning Application Withdrawn,Application Withdrawn,,,"Castle Cement Works
@@ -1637,7 +1760,8 @@ N00225W,4021,02/05/2013,Baillie Windfarm Ltd,Baillie Wind Farm,Wind Onshore,,,52
 N00230W,4022,08/10/2013,REG Windpower (previously Cornwall Light and Power),Braich Ddu,Wind Onshore,,,3.90,,,,,,1.30,3,,,Operational,Operational,,,"Braich Ddu, Glanrafon Y Bala, Gwynedd",Gwynedd,Wales,Wales,,267500,301500,Gwynedd Council,C04M/0038/04/MW,,,,,,11/03/2004,,,,,,,13/09/2004,,,,,,31/08/2007,
 N00243W,4023,04/12/2017,Greencoat UK Wind,Drone Hill,Wind Onshore,,,28.60,,,,,,1.30,22,,,Operational,Operational,,,"Coldingham
 East Berwickshire",Borders,Scotland,Scotland,,383719,667227,Scottish Borders Council,05/00425/FUL,,,,,,04/03/2005,,12/11/2007,,,,,,,,,,01/04/2011,01/09/2012,
-N00250W,4024,25/01/2012,Scottish and Southern Energy (SSE),Tangy Wind Farm Extension/Tangy 2,Wind Onshore,,,6.00,,,,,,0.85,7,,,Operational,Operational,,,"Kilkenzie, Campbelltown",Strathclyde,Scotland,Scotland,,177000,626200,Argyll and Bute Council,0401291/DET,,,,,,01/07/2004,,,,,,,01/09/2005,,,,,01/05/2006,17/06/2011,
+N00250W,4024,25/01/2012,Scottish and Southern Energy (SSE),Tangy Wind Farm Extension/Tangy 2,Wind Onshore,,,6.00,,,,,,0.85,7,,,Operational,Operational,,,"Kilkenzie
+, Campbelltown",Strathclyde,Scotland,Scotland,,177000,626200,Argyll and Bute Council,0401291/DET,,,,,,01/07/2004,,,,,,,01/09/2005,,,,,01/05/2006,17/06/2011,
 N00259W,4025,29/08/2012,Scottish and Southern Energy (SSE),Pairc Windfarm,Wind Onshore,,,94.00,,,,,,3.60,26,,,Planning Application Withdrawn,Application Withdrawn,,,"Pairc 
 Isle of Lewis",Western Isles,Scotland,Scotland,,135566,915943,Scottish Government (S36),,,,,,,,29/08/2012,,,,,,,,,,,,,
 N00263W,4026,30/10/2017,Vattenfall,Ray Wind Farm,Wind Onshore,,,54.40,,,,,,3.50,16,,,Operational,Operational,,,"Kirkwhelpington, Newcastle-upon-Tyne, Tyne and Wear",Northumberland,North East,England,NE19 2,395550,587550,DECC (S36),06/00023/CPC,,,,,,12/12/2005,,,,,,,11/11/2010,,,,,01/07/2015,05/02/2017,
@@ -1653,7 +1777,9 @@ N00293W,4033,19/04/2013,Devon Wind Power Ltd,Fullabrook Down Wind Farm,Wind Onsh
 N00300W,4034,17/09/2020,Renewables Infrastructure Group,Little Raith Farm,Wind Onshore,,,25.00,,,,,,2.80,9,,,Operational,Operational,,,"South of A92
 Nr Loch Gelly",Fife,Scotland,Scotland,,322245,692552,Fife Council,04/04266/WEIA,,,,,,02/12/2004,,,,,,,08/03/2007,,,,,01/09/2011,27/11/2012,
 N00301W,4035,01/12/2011,A7 Energy,Dusty Drum,Wind Onshore,,,6.00,,,,,,2.00,3,,,Revised,Revised,2684,,"Land At Dusty Drum, Carmyllie, Arbroath, Angus",Tayside,Scotland,Scotland,DD11 2QS,355050,741050,Angus Council,05/01061/FUL,,,,,,01/07/2005,19/12/2007,,,,,,,,,,,,,
-N00303W,4036,09/01/2015,Scottish and Southern Energy (SSE),Spurness Wind Farm,Wind Onshore,,,11.00,,,,,,2.75,4,,,Decommissioned,Decommissioned,,,"Gump of Spurness, Sanday, Orkney",Orkney Islands,Scotland,Scotland,,360450,1035550,Orkney Islands Council,,,,,,,01/09/2002,,,,,,,01/01/2003,,,,,,01/12/2004,
+N00303W,4036,09/01/2015,Scottish and Southern Energy (SSE),Spurness Wind Farm,Wind Onshore,,,11.00,,,,,,2.75,4,,,Decommissioned,Decommissioned,,,"Gump of Spurness
+, Sanday
+, Orkney",Orkney Islands,Scotland,Scotland,,360450,1035550,Orkney Islands Council,,,,,,,01/09/2002,,,,,,,01/01/2003,,,,,,01/12/2004,
 N00311W,4037,20/05/2014,Chancerygate,Willow Lane Wind Turbines,Wind Onshore,,,11.00,,,,,,1.10,10,,,Abandoned,Abandoned,,,"2-4 Willow Lane Industrial Estate
 Mitcham Junction
 Near Merton",London,London,England,,528336,167552,Merton London Borough Council,,,,,,,30/06/2004,,,,,,,15/08/2004,,,,,,,
@@ -1678,7 +1804,9 @@ Co Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,,41160,537686,Northern I
 N00402W,4054,27/11/2017,Scottish and Southern Energy (SSE),Slieve Divena Phase 2 Wind Farm,Wind Onshore,,,18.80,,,,,,2.50,8,,,Operational,Operational,,,"Slieve Divena Wind Farm Phase II in the townlands of Altcloghfin, Altamuskin and Shantavny Irish, Co Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,BT79,69602,524593,Northern Ireland Planning Service,K/2005/1691/F,,,,,,13/09/2005,,,,,,,06/06/2007,,,,20/02/2018,30/05/2016,16/02/2017,
 N00408W,4055,02/05/2013,I & H Brown Ltd,Bankend Rig,Wind Onshore,,,14.30,,,,,,1.30,11,,,Operational,Operational,,,Near Dungavel Reservoir,Strathclyde,Scotland,Scotland,,265553,633692,South Lanarkshire Council,EK/06/0311,,,,,,16/06/2006,,,,,,,16/06/2011,,,,,09/01/2012,27/03/2013,
 N00419W,4056,08/10/2013,Mackies,Hill of Easterton Extension,Wind Onshore,,,2.00,,,,,,1.00,2,,,Operational,Operational,,,"Hill of Easterton, 1km North Of Mackies Ice Cream Dairy, Westertown, Rothienorman, Inverurie, AB51 8US",Grampian,Scotland,Scotland,,376449,831808,Aberdeenshire Council,APP/2005/3308,,,,,,28/09/2005,,,,,,,18/07/2007,,,,,,31/07/2007,
-N00425W,4057,30/11/2016,Blackrock Real Assets,Batsworthy Cross,Wind Onshore,,,18.00,,,,,,2.00,9,103.00,,Operational,Operational,,,"Batsworthy Cross, Creacombe, North Devon",Devon,South West,England,,281500,120500,North Devon District Council,43272,A/11/2162070/NWF,,,,,18/11/2006,,20/07/2011,,,,22/10/2012,22/10/2012,,,,,18/01/2016,07/04/2016,
+N00425W,4057,30/11/2016,Blackrock Real Assets,Batsworthy Cross,Wind Onshore,,,18.00,,,,,,2.00,9,103.00,,Operational,Operational,,,"Batsworthy Cross
+, Creacombe
+, North Devon",Devon,South West,England,,281500,120500,North Devon District Council,43272,A/11/2162070/NWF,,,,,18/11/2006,,20/07/2011,,,,22/10/2012,22/10/2012,,,,,18/01/2016,07/04/2016,
 N00459W,4058,25/01/2012,Airtricity,Slieve Kirk,Wind Onshore,,,73.00,,,,,,2.30,12,,,Operational,Operational,,,"Lands bounded by Bigwood Road, Kildoag Road & Castlewarren Road, within the townlands of Lisdillon, Kildoag in Co Derry, Knockbrack, Gosheden, Lackagh, Ardground, Legagh in Co Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,,61258,571215,Northern Ireland Planning Service,A/2004/1130/F,,,,,,29/10/2004,,,,,,,10/03/2009,,,,,01/04/2011,01/10/2011,
 N00549W,4059,02/07/2020,EDF Energy Renewables,Fallago Rig,Wind Onshore,,,144.00,,,,,,3.00,48,,,Operational,Operational,,,Lammermuir Hills,Borders,Scotland,Scotland,,357000,660000,Scottish Government (S36),,,,,,,16/05/2005,,06/06/2007,,,,09/11/2010,09/11/2010,,,,,01/03/2011,31/03/2013,
 N00555W,4060,02/09/2013,Scottish and Southern Energy (SSE),Cathkin Braes Wind Farm (Castlemilk),Wind Onshore,,,3.00,,,,,,3.00,1,,,Operational,Operational,,,Site At Cathkin Braes/ Cathkin Road Carmunnock Glasgow,Strathclyde,Scotland,Scotland,,261220,658203,Glasgow City Council,,,,,,,03/09/2012,,,,,,,15/01/2013,,,,,,29/05/2013,
@@ -1728,15 +1856,20 @@ C1580,4101,30/06/2014,Sharenergy,Criddon Hall Farm,Wind Onshore,,,3.00,,,,,,1.50
 C2076,4102,12/03/2015,Wind Prospect Developments,Breaker Hill,Wind Onshore,,,7.20,,,,,,0.80,9,,,Appeal Refused,Application Refused,,2686,The site is located 8km South of Girvan between Pinwherry and Colmonell,Strathclyde,Scotland,Scotland,,217500,588900,South Ayrshire Council,13/01310/APP,PPA-370-2043,,,,,28/11/2013,,19/06/2014,18/09/2014,,02/02/2015,,,,,,,,,
 C2577,4103,06/01/2016,Airvolution Energy,Muircleugh Farm,Wind Onshore,,,21.00,,,,,,3.00,7,110.00,,Appeal Refused,Application Refused,,4086,"Land North, West And South West Of Muircleugh Farmhouse, Lauder, ",Borders,Scotland,Scotland,TD2 6RG,350540,645212,Scottish Borders Council,14/01081/FUL,PPA-140-2054,,,,,03/10/2014,,31/03/2015,26/06/2015,,08/12/2015,,,,,,,,,
 EN00139,4104,24/06/2014,The Renewables Infrastructure Group (TRIG),Tallentire Hill,Wind Onshore,,,12.00,,,,,,2.00,6,,,Operational,Operational,,,"Hill Farm, Cockermouth, Cumbria. CA13 0PY",Cumbria,North West,England,,312500,535500,Allerdale Borough Council,2/2008/0261,APP/G0908/A/10/2131842/NWF,,,,,19/03/2008,,14/09/2010,,,,04/02/2011,04/02/2011,,,,,06/07/2012,09/07/2013,
-EN00152,4105,04/07/2014,Wind Power Ltd,Newfield,Wind Onshore,,,63.00,,,,,,3.00,26,,,Planning Permission Refused,Application Refused,,,"Near Sibbaldbie, Lockerbie, Dumfriesshire",Dumfries and Galloway,Scotland,Scotland,,318080,577600,Scottish Government (S36),,,,,,,01/10/2009,,06/06/2014,,,,,,,,,,,,
+EN00152,4105,04/07/2014,Wind Power Ltd,Newfield,Wind Onshore,,,63.00,,,,,,3.00,26,,,Planning Permission Refused,Application Refused,,,"Near Sibbaldbie
+, Lockerbie
+, Dumfriesshire",Dumfries and Galloway,Scotland,Scotland,,318080,577600,Scottish Government (S36),,,,,,,01/10/2009,,06/06/2014,,,,,,,,,,,,
 EN00162,4106,23/09/2020,Muirhall Energy (formerly Infinis),Greengairs Wind Farm,Wind Onshore,,,17.50,,,,,,2.00,9,,,Planning Permission Expired,Planning Permission Expired,,,Greengairs Landfill Site Meikle Drumgray Road Greengairs North Lanarkshire,Strathclyde,Scotland,Scotland,,279673,669835,North Lanarkshire Council,07/00172/FUL,,,,,,07/02/2007,,,,,,,14/08/2008,,,,,,,
 EN00195,4107,27/11/2018,Energia ,Pollnalaght (Cornavarrow),Wind Onshore,,,38.40,,,,,,3.20,12,,,Operational,Operational,,,"Pollnalaght, Drumquin, Co Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,,48480,532854,Northern Ireland Planning Service,K/2006/1368/F,A2009/0268,,,,,23/06/2006,,13/10/2009,,,,16/10/2009,16/10/2009,,,,,15/12/2015,15/06/2018,
-EN00202,4108,24/08/2017,Seegronan Windfarm,Seegronan,Wind Onshore,,,13.80,,,,,,2.30,6,,,Operational,Operational,,,"Killeter, Strabane, Co Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,,122608,534966,Northern Ireland Planning Service,J/2006/0883/F,,,,,,24/08/2006,,,,,,,13/01/2011,,,,13/01/2016,22/03/2016,15/08/2016,
+EN00202,4108,24/08/2017,Seegronan Windfarm,Seegronan,Wind Onshore,,,13.80,,,,,,2.30,6,,,Operational,Operational,,,"Killeter
+, Strabane
+, Co Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,,122608,534966,Northern Ireland Planning Service,J/2006/0883/F,,,,,,24/08/2006,,,,,,,13/01/2011,,,,13/01/2016,22/03/2016,15/08/2016,
 EN00217,4109,24/06/2014,The Renewables Infrastructure Group (TRIG),Meikle Carewe ,Wind Onshore,,,10.00,,,,,,0.85,12,,,Operational,Operational,,3573,"Rickarton Farms, Stonehaven, ",Grampian,Scotland,Scotland,,383200,792000,Aberdeenshire Council,APP/2006/3934,PPA-110-2053,,,,,29/11/2006,,20/05/2010,,,,,,,,,,26/07/2012,30/07/2013,
 EN00273,4110,03/04/2018,Statkraft UK,Andershaw,Wind Onshore,,,36.00,,,,,,2.50,14,,,Operational,Operational,,,Andershaw Forest South of Douglas,Strathclyde,Scotland,Scotland,ML11 0SQ,283500,625500,South Lanarkshire Council,CL/07/0454,,,,,,09/07/2007,,,,,,,09/06/2014,,,,,28/10/2015,02/11/2016,
 EN00311,4111,04/01/2017,Energia Renewables,Eshmore,Wind Onshore,,,6.90,,,,,,2.30,3,,,Operational,Operational,,,"Crockanavark, Eshmore and Altaglushan Townlands , Galbally, Dungannon. Co Tyrone",Co. Tyrone,Northern Ireland,Northern Ireland,,80500,528499,Northern Ireland Planning Service,M/2006/1802/F,,,,,,09/10/2006,,,,,,,19/10/2011,,,,19/10/2016,15/01/2016,22/12/2016,
 EN00334,4112,18/04/2019,Renewable Energy Systems (RES),Castlecraig,Wind Onshore,,,25.00,,,,,,2.50,10,,,Operational,Operational,,,"Castlecraig (Slieve Glass) in Castlecraig, Sloughan, Killoan and Curraghmacall townlands. The proposed site is approximately 5 km south of Killen and 5 km west of Drumquin beside Lough Hill.",Co. Tyrone,Northern Ireland,Northern Ireland,,39597,540549,Northern Ireland Planning Service,K/2006/1934/F,,,,,,15/12/2006,,,,,,,01/06/2011,,,,,20/04/2017,15/08/2018,
-EN00443,4113,02/12/2014,Wind Direct,East Midlands Airport,Wind Onshore,,,1.00,,,,,,0.25,4,,,Operational,Operational,,,"Castle Donington, Leicestershire",Leicestershire,East Midlands,England,,444390,325610,North West Leicestershire District Council,07/01405/AIR,,,,,,31/08/2007,,,,,,,28/03/2008,,,,,16/04/2011,10/05/2011,
+EN00443,4113,02/12/2014,Wind Direct,East Midlands Airport,Wind Onshore,,,1.00,,,,,,0.25,4,,,Operational,Operational,,,"Castle Donington
+, Leicestershire",Leicestershire,East Midlands,England,,444390,325610,North West Leicestershire District Council,07/01405/AIR,,,,,,31/08/2007,,,,,,,28/03/2008,,,,,16/04/2011,10/05/2011,
 EN00448,4114,26/06/2014,Greencoat UK Wind/Bay Wa .r.e/ SunGift,Kildrummy Windfarm,Wind Onshore,,,18.40,,,,,,2.30,8,,,Operational,Operational,,,"Clashnarae Hill, Kildrummy, Alford",Grampian,Scotland,Scotland,,357655,815170,Aberdeenshire Council,APP/2006/4911,P/PPA/110/712,,,,,19/12/2006,,24/09/2007,,,,06/08/2009,06/08/2009,,,,,,14/02/2013,
 EN00557,4115,03/07/2014,Wind Direct,Causeway Bridges Wind Farm,Wind Onshore,,,4.00,,,,,,2.00,2,,,Abandoned,Abandoned,,,"Land adjacent to the M62, Causeway Bridges Farm, Alder Lane, Burtonwood, Warrington, WA5 4BN",Cheshire,North West,England,,358734,392095,Warrington Borough Council,2008/12807,,,,,,28/04/2008,,,,,,,29/05/2008,,,,,,,
 EN00608,4116,19/04/2017,Airvolution Energy,Airfield Farm (Podington) ,Wind Onshore,,,8.60,,,,,,2.00,3,,,Operational,Operational,,2945,"Airfield Farm, adjacent to Santa Pod raceway, Podington, Wellingborough",Bedfordshire,Eastern,England,NN29 7XA,495095,260698,Bedford Borough Council,08/02692/MAF,09/00037/NONDET,,,,,25/09/2008,,23/02/2010,,,,21/08/2012,21/08/2012,,,,,15/07/2016,15/02/2017,
@@ -1812,7 +1945,9 @@ AA680,4184,26/11/2018,Fyne Futures,Auchadaduie Wind Farm,Wind Onshore,,,6.90,,,,
 AA712,4185,03/07/2018,North Power Ltd,Carneatly,Wind Onshore,,,9.20,,,,,,2.30,4,,,Planning Application Withdrawn,Application Withdrawn,,,"Ballycastle, Co Antrim",Co. Antrim,Northern Ireland,Northern Ireland,,126703,597217,Northern Ireland Planning Service,E/2011/0088/F,,,,,,12/04/2011,07/06/2018,,,,,,,,,,,,,
 AA722,4186,01/02/2017,Scottish and Southern Energy (SSE),Binnawooda Wind Farm,Wind Onshore,,,29.90,,,,,,2.30,13,,,Planning Application Withdrawn,Application Withdrawn,,,"Land in townlands of Edanasop, Binnawooda, Lettercairn, Meencarriga, Drummahon and Scraghy approximately 3.73km North East of junction of B72 and Montaighroe Road.",Co. Tyrone,Northern Ireland,Northern Ireland,,36918,540656,Northern Ireland Planning Service,J/2010/0168/F,,,,,,27/05/2010,20/12/2016,,,,,,,,,,,,,
 AA793,4187,21/06/2018,Ecotricity,Harringe Brooks Wind Park,Wind Onshore,,,15.00,,,,,,2.50,6,125.00,,Planning Application Submitted,Application Submitted,,,Land 500M South West Otterpool Manor Barn (adj. Harringe Brooks Wood) Otterpool Lane Sellindge Kent,Kent,South East,England,,610455,136440,Folkstone and Hythe District Council,Y12/0451/SH,,,,,,16/05/2012,,,,,,,,,,,,,,
-B0146,4188,28/07/2017,Peel Holdings and UUGE,Scout Moor Windfarm (extension),Wind Onshore,,,36.80,,,,,,2.30,16,115.00,,Secretary of State - Refusal,Application Refused,,,"Land at Scout Moor, off Edenfield Road, Rochdale",Lancashire,North West,England,,382400,419200,Rossendale Borough Council,2015/0112,,APP/B2355/V/15/3139740,,,,22/04/2015,,06/07/2017,,,,,,30/11/2015,06/07/2017,,,,,
+B0146,4188,28/07/2017,Peel Holdings and UUGE,Scout Moor Windfarm (extension),Wind Onshore,,,36.80,,,,,,2.30,16,115.00,,Secretary of State - Refusal,Application Refused,,,"Land at Scout Moor
+, off Edenfield Road
+, Rochdale",Lancashire,North West,England,,382400,419200,Rossendale Borough Council,2015/0112,,APP/B2355/V/15/3139740,,,,22/04/2015,,06/07/2017,,,,,,30/11/2015,06/07/2017,,,,,
 B0157,4189,18/06/2020,Lantern Bidco,Dalquhandy Windfarm,Wind Onshore,,,45.00,,,,,,2.00,15,149.90,,Planning Permission Expired,Planning Permission Expired,,,"Land at Dalquhandy, South Lanarkshire ",Strathclyde,Scotland,Scotland,,214836,591232,South Lanarkshire Council,CL/12/0042,,,,,,01/02/2012,,,,,,,27/01/2015,,,,27/01/2020,,,
 B0249,4190,21/11/2019,TCI Renewables,Cam Burn Wind Farm,Wind Onshore,,,13.80,,,,,,2.30,6,,,Abandoned,Abandoned,,,"Land approximately 920 metres north west of 33 Craigmore Road, Coleraine, Co. Londonderry,  BT51 4EX",Co. Derry / Londonderry,Northern Ireland,Northern Ireland,,99543,582056,Northern Ireland Planning Service,C/2011/0459/F,,,,,,07/09/2011,,08/10/2015,,,,,22/12/2016,30/10/2015,,22/12/2016,,,,
 B0313,4191,25/11/2014,Burcote Wind,Meikleton Wind Farm,Wind Onshore,,,12.00,,,,,,3.00,4,,,Revised,Revised,7264,,Land to South of  Meikleton of Ardonald Cairnie Huntly,Grampian,Scotland,Scotland,,345789,843302,Aberdeenshire Council,APP/2012/3280,PPA-110-2216,,,,,03/10/2012,,02/04/2014,30/04/2014,,26/09/2014,,,,,,,,,
@@ -2052,7 +2187,8 @@ C3004,4402,25/06/2020,Mynydd y Gwynt Ltd,Mynydd y Gwynt Wind Farm,Wind Onshore,,
 B0996,4403,29/05/2019,Airvolution Energy,New Rides Wind Farm,Wind Onshore,,,8.80,,,,,,2.00,4,,,Operational,Operational,,,"New Rides Farm, Leysdown Road, Sheerness",Kent,South East,England,ME12 4DD,599282,170224,Swale Borough Council,SW/13/1571,APP/V2255/W/15/3014371,,,,,27/01/2014,,03/02/2015,25/06/2015,,,09/08/2017,09/08/2017,,,,,07/06/2018,01/12/2018,
 B0034,4404,19/10/2016,Wind Direct,Noble Foods,Wind Onshore,,,1.50,,,,,,1.50,1,127.00,,Operational,Operational,,,"Poultry Buildings, Strathore Farm, Strathore Road, Thornton, Fife",Fife,Scotland,Scotland,,328104,697428,Fife Council,11/02164/FULL,,,,,,10/05/2011,,,,,,,15/11/2011,,,,,20/08/2014,01/12/2014,
 B1055,4405,06/10/2015,REG Windpower,Old River Don Wind Farm,Wind Onshore,,,18.00,,,,,,3.00,6,,,Planning Permission Refused,Application Refused,,,"Land off, Godnow Road, Crowle",Humberside,Yorkshire and Humber,England,DN17 4BN,474885,413221,North Lincolnshire Council,WF/2014/0710,,,,,,30/06/2014,,23/09/2015,,,,,,,,,,,,
-AA093,4406,01/04/2015,Mark Caudwell Ltd,Orby Windfarm,Wind Onshore,,,11.70,,,,,,1.30,9,,,Secretary of State - Refusal,Application Refused,,3270,"Orby Marsh Lane, Hogsthorpe, Skegness",Lincolnshire,East Midlands,England,,551488,367553,East Lindsey District Council,N/084/00642/10,APP/D2510/A/11/2161066,,,,,24/03/2010,,18/03/2011,28/10/2011,,,,,,30/03/2015,,,,,
+AA093,4406,01/04/2015,Mark Caudwell Ltd,Orby Windfarm,Wind Onshore,,,11.70,,,,,,1.30,9,,,Secretary of State - Refusal,Application Refused,,3270,"Orby Marsh Lane, Hogsthorpe,
+ Skegness",Lincolnshire,East Midlands,England,,551488,367553,East Lindsey District Council,N/084/00642/10,APP/D2510/A/11/2161066,,,,,24/03/2010,,18/03/2011,28/10/2011,,,,,,30/03/2015,,,,,
 AA492,4407,11/08/2014,Npower Renewables,Orchard Way Wind Farm,Wind Onshore,,,15.00,,,,,,3.00,5,,,Appeal Refused,Application Refused,,,"Hill Farm, Little Linford Lane, To Haversham High Street, Haversham, Milton Keynes",Buckinghamshire,South East,England,,483216,243900,Milton Keynes Council,11/02028/FULEIS,12/00048/NONDET,,,,,16/09/2011,,13/11/2012,,,04/08/2014,,,,,,,,,
 B0593,4408,02/02/2017,Yorkshire Windpower,Ovenden Moor (Repower) ,Wind Onshore,,,18.00,,,,,,2.50,9,115.00,,Operational,Operational,,3993,"Withens Road, Wainstalls, Halifax, ",West Yorkshire,Yorkshire and Humber,England,,404000,430500,Calderdale Metropolitan Borough Council,12/00955/WDF,,,,,,02/08/2012,,,,,,,16/11/2012,,,,,21/05/2015,24/01/2017,
 C2978,4409,21/08/2017,Pennant Walters (PYWX),Pant y wal extension,Wind Onshore,,,20.00,,,,,,2.50,8,125.00,,Operational,Operational,,,"Mynydd Maesteg, Mynydd Pwlle yr Helog, Ogmore Vale, Rhondda Valley",Mid Glamorgan,Wales,Wales,,294649,188695,Bridgend County Borough Council,P/14/293/FUL,,,,,,30/04/2014,,,,,,,02/04/2015,,,,,14/03/2016,01/05/2017,
@@ -2182,7 +2318,8 @@ East Lothian
 EH42 1SG",Lothian,Scotland,Scotland,,369468,669455,East Lothian Council,05/00216/FUL,,,,,,24/02/2005,,,,,,,16/03/2007,,,,,,01/11/2008,
 S0001W1,4527,04/09/2018,Fred Olsen Renewables,Brochloch Rig 1 (formerly Windy Standard),Wind Onshore,,,21.60,,,,,,0.60,36,,,Operational,Operational,,,"Windy Standard
 ",Dumfries and Galloway,Scotland,Scotland,,261500,602500,Dumfries and Galloway Council,,,,,,,24/07/1995,,,,,,,07/03/1996,,,,,,01/10/1996,
-S0006W1,4528,25/09/2014,RWE npower,Craigenlee Wind Farm,Wind Onshore,,,7.80,,,,,,0.50,14,,,Planning Application Withdrawn,Application Withdrawn,,,"Craigenlee Fell / Broad Moor, Dumfries and Galloway",Dumfries and Galloway,Scotland,Scotland,,202000,557000,Dumfries and Galloway Council,,,,,,,,25/09/2014,,,,,,,,,,,,,
+S0006W1,4528,25/09/2014,RWE npower,Craigenlee Wind Farm,Wind Onshore,,,7.80,,,,,,0.50,14,,,Planning Application Withdrawn,Application Withdrawn,,,"Craigenlee Fell / Broad Moor
+, Dumfries and Galloway",Dumfries and Galloway,Scotland,Scotland,,202000,557000,Dumfries and Galloway Council,,,,,,,,25/09/2014,,,,,,,,,,,,,
 S0031W3,4529,06/12/2019,Torrs Hill Windfarm Ltd,Torrs Hill,Wind Onshore,,,4.00,,,,,,2.00,2,,,Under Construction,Under Construction,,,10km NW of New Galloway,Dumfries and Galloway,Scotland,Scotland,,252600,589000,Dumfries and Galloway Council,03/P/2/0252,,,,,,09/06/2003,,,,,,,23/03/2004,,,,,15/02/2009,,
 A0180a,4530,16/09/2014,Broadview Energy,Starbold Wind Farm,Wind Onshore,,,15.00,,,,,,3.00,5,,,Appeal Refused,Application Refused,,,"Knightcote, Stratford on Avon",Warwickshire,West Midlands,England,,438458,256173,Stratford on Avon District Council,12/00330/FUL,APP/J3720/A/13/2193579/NWF,,,,,04/04/2012,,13/02/2013,03/04/2014,,01/10/2014,,,,,,,,,
 AA560,4531,31/12/2014,EDF,Dorcas Lane Wind Farm,Wind Onshore,,,10.00,,,,,,2.50,4,,,Secretary of State - Refusal,Application Refused,,,Land To South Of Dorcas Lane Off Newton Road Stoke Hammond Buckinghamshire,Buckinghamshire,South East,England,,486512,228171,Aylesbury Vale District Council,11/02798/APP,APP/J0405/A/13/2205701,,,,,06/12/2012,,20/03/2013,12/12/2013,,23/12/2014,,,,23/12/2014,,,,,
@@ -2280,9 +2417,12 @@ EN00041,4620,24/08/2015,Greencoat UK Wind,Langhope Rig,Wind Onshore,,,16.00,,,,,
 EN00197,4621,03/02/2016,,Altgolan,Wind Onshore,,,17.50,,,,,,2.30,7,,,Appeal Refused,Application Refused,,,"Altgolan, Castlederg",Co. Antrim,Northern Ireland,Northern Ireland,,119268,533312,Northern Ireland Planning Service,J/2006/0840/F,2012/A0070,,,,,21/08/2006,,10/05/2012,01/08/2012,,21/12/2015,,,,,,,,,
 EN00210,4622,25/06/2019,Viking Energy / Scottish and Southern,Viking Wind Farm,Wind Onshore,,,370.00,,,,220.00,AR4,3.50,103,,,Revised,Revised,6828,,"Lang Kames, Shetland Island",Shetland,Scotland,Scotland,,443800,1161960,Scottish Government (S36),,,,,,,20/05/2009,,,,,,,04/04/2012,,,,,,,
 EN00575,4623,29/06/2015,Vattenfall,Clashindarroch 2,Wind Onshore,,,37.00,,,,,,2.05,18,,,Operational,Operational,,3104,"Clashindarroch Forest, Huntly, ",Grampian,Scotland,Scotland,,348000,831000,Aberdeenshire Council,APP/2009/1380,,,,,,01/06/2009,,,,,,,14/12/2010,,,,,01/06/2013,26/06/2015,
-EN00602,4624,01/12/2014,Ecotricity,Galsworthy Wind Park,Wind Onshore,,,9.20,,,,,,2.30,4,,,Operational,Operational,,,"Land At Galsworthy, Buckland Brewer And Bulkworthy",Devon,South West,England,,240435,115705,Torridge District Council,1/0375/2008/FUL,,,,,,04/04/2008,,,,,,,11/09/2008,,,,,01/05/2011,28/11/2014,
+EN00602,4624,01/12/2014,Ecotricity,Galsworthy Wind Park,Wind Onshore,,,9.20,,,,,,2.30,4,,,Operational,Operational,,,"Land At Galsworthy
+, Buckland Brewer And Bulkworthy
+",Devon,South West,England,,240435,115705,Torridge District Council,1/0375/2008/FUL,,,,,,04/04/2008,,,,,,,11/09/2008,,,,,01/05/2011,28/11/2014,
 N000231W,4625,04/01/2016,Scottish and Southern Energy (SSE),Strathy North,Wind Onshore,,,67.70,,,,,,2.05,33,,,Operational,Operational,,,"Near Strathy Village, Sutherland",Highland,Scotland,Scotland,,281550,957550,Scottish Government (S36),,,,,,,12/01/2007,,,,,,,22/11/2011,,,,,31/01/2014,01/12/2015,
-N00308w,4626,19/09/2014,Wind Hydrogen,Wings Law,Wind Onshore,,,48.00,,,,,,2.00,24,,,Appeal Withdrawn,Appeal Withdrawn,,,"Ladyland Moor, Kilbirnie",Strathclyde,Scotland,Scotland,,230100,659400,North Ayrshire Council,07/00761/PP,09/00018/REFUSE,,,,,03/08/2007,,23/02/2009,,14/12/2010,,,,,,,,,,
+N00308w,4626,19/09/2014,Wind Hydrogen,Wings Law,Wind Onshore,,,48.00,,,,,,2.00,24,,,Appeal Withdrawn,Appeal Withdrawn,,,"Ladyland Moor
+, Kilbirnie",Strathclyde,Scotland,Scotland,,230100,659400,North Ayrshire Council,07/00761/PP,09/00018/REFUSE,,,,,03/08/2007,,23/02/2009,,14/12/2010,,,,,,,,,,
 N00214Wa,4627,22/02/2016,Fred Olsen Renewables,Mid Hill - Phase II,Wind Onshore,,,18.40,,,,,,2.30,8,,,Operational,Operational,,,"Mid Hill, Fetteresso
 Stonehaven",Grampian,Scotland,Scotland,,370540,786500,Scottish Government (S36),SO30179PF,,,,,,12/02/2003,,,,,,,03/06/2005,,,,,25/08/2014,02/12/2014,
 B1513,4628,19/01/2023,Banks Renewables,Kype Muir Wind Farm Extension,Wind Onshore,,,75.00,No,,,,,5.00,15,220.00,,Under Construction,Under Construction,,,approximately 5 km south of the town of Strathaven,Strathclyde,Scotland,Scotland,,271915,639557,Scottish Government (S36),EC00002083,,,,,,10/10/2014,,,,,,,16/09/2016,,,,,01/06/2021,,
@@ -2310,17 +2450,23 @@ B0497,4650,11/03/2020,Energia,Pigeon Top ,Wind Onshore,,,27.00,,,,,,3.00,9,,,Und
 C1559,4651,04/01/2016,REG Windpower / BlackRock,Denzell Downs Wind Farm,Wind Onshore,,,10.00,,,,,,2.00,5,,,Operational,Operational,,3736,"Higher Denzell Farm, St Mawgan, Newquay, ",Cornwall,South West,England,TR8 4HG,189923,67094,Cornwall Council,PA13/04805,,,,,,27/06/2013,,,,,,,12/12/2013,,,,,01/03/2015,24/11/2015,
 EN00126,4652,04/01/2017,Energia Renewables,Long Mountain,Wind Onshore,,,27.60,,,,,,2.00,12,,,Operational,Operational,,,"Dunloy, Co. Antrim",Co. Antrim,Northern Ireland,Northern Ireland,,115926,574530,Northern Ireland Planning Service,D/2006/0104/F,,,,,,08/03/2006,,,,,,,05/01/2007,,,,,15/01/2016,15/12/2016,
 EN00128,4653,04/07/2017,Gaelectric Developments/ CGN Europe Energy,Cregganconroe,Wind Onshore,,,13.80,,,,,,2.30,6,,,Operational,Operational,,,"Loughmallon Road, Cregganconroe, Pomeroy ",Co. Tyrone,Northern Ireland,Northern Ireland,,78733,536671,Northern Ireland Planning Service,K/2006/0242/F,,,,,,29/09/2006,,,,,,,08/09/2010,,,,08/09/2015,17/02/2015,04/01/2017,
-EN00131,4654,03/05/2017,Natural Power,Ora More,Wind Onshore,,,15.00,,,,,,2.30,6,,,Operational,Operational,,,"Ora More Hill, in the Townlands of Killycreen East, Ora Beg and Mullylusty, near Boho and Belcoo, CoFermanagh",Co. Fermanagh,Northern Ireland,Northern Ireland,,16972,509701,Northern Ireland Planning Service,L/2005/3070/F,,,,,,15/12/2005,,,,,,,30/03/2011,,,,30/03/2016,15/11/2015,30/03/2017,
+EN00131,4654,03/05/2017,Natural Power,Ora More,Wind Onshore,,,15.00,,,,,,2.30,6,,,Operational,Operational,,,"Ora More Hill, in the Townlands of Killycreen East, Ora Beg and Mullylusty, near Boho and Belcoo, Co
+Fermanagh",Co. Fermanagh,Northern Ireland,Northern Ireland,,16972,509701,Northern Ireland Planning Service,L/2005/3070/F,,,,,,15/12/2005,,,,,,,30/03/2011,,,,30/03/2016,15/11/2015,30/03/2017,
 EN00261,4655,24/02/2016,Infrared Capital Partners,Reaps Moss Wind Farm ,Wind Onshore,,,10.20,,,,,,3.40,3,125.00,,Operational,Operational,,2609,"Reaps Moss, Bacup",Lancashire,North West,England,,389065,422650,Rossendale Borough Council,2007/125,,,,,,19/02/2007,,,,,,,14/10/2009,,,,,01/10/2014,31/03/2015,
-EN00264,4656,05/10/2017,John Laing Environmental Assets Group,"Llynfi Renewable Energy Park, Land at Mynydd Caerau",Wind Onshore,,,18.00,,,,,,2.00,12,,,Operational,Operational,,,"Glyncorrwg and Gelli Mountain, Croeserw, Neath and Port Talbot",Neath Port Talbot,Wales,Wales,SA13 3NN,287930,195255,Neath Port Talbot Council,P2010/1148,,,,,,15/11/2010,,03/04/2012,,,,27/08/2013,27/08/2013,,,,,27/05/2016,14/09/2017,
+EN00264,4656,05/10/2017,John Laing Environmental Assets Group,"Llynfi Renewable Energy Park, Land at Mynydd Caerau",Wind Onshore,,,18.00,,,,,,2.00,12,,,Operational,Operational,,,"Glyncorrwg and Gelli Mountain
+, Croeserw
+, Neath and Port Talbot",Neath Port Talbot,Wales,Wales,SA13 3NN,287930,195255,Neath Port Talbot Council,P2010/1148,,,,,,15/11/2010,,03/04/2012,,,,27/08/2013,27/08/2013,,,,,27/05/2016,14/09/2017,
 EN00350,4657,16/08/2016,Blue Energy,Chiplow,Wind Onshore,,,8.20,,,,,,2.00,5,,,Operational,Operational,,,"Bewteen the villages of Bagthorpe, Barmer and Syderstone in North West Norfolk",Norfolk,Eastern,England,,581259,332212,King's Lynn and West Norfolk Borough Council,10/00883/FM,11/00026/REF,,,,,26/05/2010,,10/05/2011,,,,24/05/2012,24/05/2012,,,,,31/03/2015,30/04/2016,
-EN00422,4658,26/02/2016,Banks Renewables,Hook Moor,Wind Onshore,,,10.30,,,,,,2.05,3,125.00,,Operational,Operational,,,"Land at Hook Moor, Micklefield, Leeds",West Yorkshire,Yorkshire and Humber,England,,443851,435273,Leeds City Council,08/01118/FU,APP/N4720/A/10/2121279,,,,,26/02/2008,,04/08/2009,,,,09/12/2011,09/12/2011,,,,,11/03/2015,15/01/2016,
+EN00422,4658,26/02/2016,Banks Renewables,Hook Moor,Wind Onshore,,,10.30,,,,,,2.05,3,125.00,,Operational,Operational,,,"Land at Hook Moor
+, Micklefield
+, Leeds",West Yorkshire,Yorkshire and Humber,England,,443851,435273,Leeds City Council,08/01118/FU,APP/N4720/A/10/2121279,,,,,26/02/2008,,04/08/2009,,,,09/12/2011,09/12/2011,,,,,11/03/2015,15/01/2016,
 EN00589,4659,04/01/2016,Infrared Capital Partners,Crook Hill (Rochdale MBC) 2 of 2,Wind Onshore,,,23.80,,,,,,3.40,7,,,Operational,Operational,,3482,"Crook Hill/Shore Moor, North Of Watergrove Reservoir, Rochdale",Greater Manchester,North West,England,,392515,419340,Rochdale Borough Council,08/D51145,,,,,,10/07/2008,,29/10/2008,,,,31/07/2009,31/07/2009,,,,,01/01/2015,01/12/2015,
 IF1174,4660,27/03/2017,Private Developer,Far Marsh Farm ,Wind Onshore,,,7.50,,,,,,2.50,3,,,Operational,Operational,,2791,"Marsh Road, Ottringham, Hull, ",Humberside,Yorkshire and Humber,England,HU12 0AN,524667,421763,East Riding of Yorkshire Council,12/04962/STPLFE,,,,,,14/12/2012,,,,,,,24/12/2013,,,,,15/10/2016,15/01/2017,
 A0279,4661,29/05/2015,John Laing Environmental Assets Group,Wear Point,Wind Onshore,,,8.20,,,,,,2.05,4,,,Operational,Operational,,,"Land at Wear Point, Waterston Industrial, Llanstadwell",Dyfed,Wales,Wales,,193041,204629,Pembrokeshire County Council,09/0544/PA,,,,,,02/10/2009,,,,,,,25/05/2010,,,,,30/06/2012,07/07/2014,
 AA051,4662,05/01/2015,Blue Energy (formerly Ridgewind Ltd),Middlewick wind farm,Wind Onshore,,,20.70,,,,,,2.30,9,,,Operational,Operational,,,"Land Between Middlewick Farm And Wraywick Farm, The Marshes, Southminster, Essex",Essex,Eastern,England,,600140,200001,Maldon District Council,10/00004/FUL,APP/X1545/A/10/2140423/NWF,,,,,05/01/2010,,06/08/2010,,,,01/05/2011,01/05/2011,,,,,04/06/2013,31/07/2014,
 EN00093,4663,02/12/2014,Hainsford Energy,Blyth Harbour Wind Farm (re-power),Wind Onshore,,,3.40,,,,,,3.40,1,,,Operational,Operational,,,"Blyth Harbour, North Blyth, Cambois, Bedlington, Northumberland",Northumberland,North East,England,,432585,580800,Northumberland County Council,07/00287/FULES,,,,,,06/07/2007,,,,,,,21/07/2008,,,,,01/06/2011,01/09/2012,
-EN00095,4664,29/08/2017,Greencoat Capital,Corriegarth,Wind Onshore,,,69.50,,,,,,3.00,23,120.00,,Operational,Operational,,,"Near Gorthleck, Inverness-shire",Highland,Scotland,Scotland,,257500,813500,Highland Council,07/00673/FULIN,,,,,,15/07/2007,,,,,,,02/04/2015,,,,,08/05/2015,30/09/2016,
+EN00095,4664,29/08/2017,Greencoat Capital,Corriegarth,Wind Onshore,,,69.50,,,,,,3.00,23,120.00,,Operational,Operational,,,"Near Gorthleck
+, Inverness-shire",Highland,Scotland,Scotland,,257500,813500,Highland Council,07/00673/FULIN,,,,,,15/07/2007,,,,,,,02/04/2015,,,,,08/05/2015,30/09/2016,
 EN00345,4665,16/09/2014,Carsington Wind Energy Limited,Carsington Pasture,Wind Onshore,,,8.00,,,,,,2.00,4,,,Operational,Operational,,,"Carsington Pasture, Derbyshire Dales",Derbyshire,East Midlands,England,,424640,354200,Derbyshire Dales District Council,07/00083/FUL,07/00015/INQUIR,,,,,29/01/2007,,20/07/2007,,,,17/09/2008,17/09/2008,,,,,15/05/2012,05/02/2014,
 EN00603,4666,16/09/2014,Co-operative Group,Langford Wind Farm,Wind Onshore,,,20.00,,,,,,2.00,10,,,Operational,Operational,,,"Edworth Road, Langford, Biggleswade, Bedfordshire, SG18 9PJ",Bedfordshire,Eastern,England,,520400,241520,Central Bedfordshire Council,09/00118/FULL,APP/P0240/A/11/2150950/NWF,,,,,11/02/2009,,07/01/2011,,,,19/01/2012,19/01/2012,,,,,17/02/2013,30/01/2014,
 N00214W,4667,16/09/2014,Fred Olsen Renewables,Mid Hill I,Wind Onshore,,,57.50,,,,,,2.30,25,,,Operational,Operational,,,"Mid Hill, Fetteresso
